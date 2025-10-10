@@ -5,6 +5,7 @@ docs_dir: docs
 
 theme:
   name: material
+  # custom_dir: overrides # thumbs feedback widget, no G-Analytics (needs : /overrides/partials/integrations/analytics/custom.html)
   language: en
   features:
     - navigation.sections   # grp sections left nav
@@ -38,7 +39,7 @@ nav:
   - 'Models for delivery': models-for-delivery/index.md
   - 'Engagement opportunities': engagement-opportunities/index.md
 
-  - 'Suggest a Change': suggestions.md # anon feedback / suggestion form
+  - 'Provide feedback': feedback.md # anon feedback / suggestion form
 
   - 'Appendices':                          # collapsible grps
     - 'Appendix 1: More on how our system works':
@@ -67,3 +68,37 @@ nav:
 
     - 'Appendix 3: More on models for delivery': appendix-3-more-on-models-for-delivery/index.md
     - 'Appendix 4: Reference projects': appendix-4-reference-projects/index.md
+
+
+# extra:
+#   analytics:
+#     provider: custom            # use custom handler (no GA)
+#     property: feedback-local    # any string
+#     feedback:
+#       title: Is this page helpful?
+#       ratings:
+#         - icon: material/thumb-up-outline
+#           name: I found this page helpful
+#           data: 1
+#           note: "Thanks for your feedback!"
+#         - icon: material/thumb-down-outline
+#           name: Page could be improved or wasn't clear
+#           data: 0
+#           note: >-
+#             Thanks! 
+#           # Help us improve this page by <a href="/suggestions/" target="_blank" rel="noopener">leaving a suggestion</a>.
+
+extra_css:
+  - assets/css/feedback.css
+
+extra_javascript:
+
+  # feedback routes
+  # git issue 
+  - assets/js/feedback.js
+  # pr
+  - assets/js/suggest-pr.js
+  # email
+  - assets/js/email-feedback.js
+  # google sheet
+  - assets/js/form-sheets.js

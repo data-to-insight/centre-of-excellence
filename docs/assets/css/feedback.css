@@ -1,0 +1,58 @@
+
+.feedback-section {
+  margin: 2rem 0;
+  padding: 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .6rem;
+}
+
+/* Stack fields and give room */
+.feedback-section form {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;              /* vert spacing between controls */
+}
+
+/* Labels on own line */
+.feedback-section label {
+  display: block;
+  font-weight: 600;
+  margin: 0.15rem 0;
+}
+
+/* Full-width form controls */
+.md-typeset .feedback-section input[type="text"],
+.md-typeset .feedback-section input[type="email"],
+.md-typeset .feedback-section textarea,
+.md-typeset .feedback-section select {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* More room for details box */
+.feedback-section textarea {
+  min-height: 9rem;
+  resize: vertical;
+}
+
+/* Keep buttons from stretching full width */
+.feedback-actions .md-button {
+  width: auto;
+}
+
+
+
+/* Increase overall MATERIAL content width (default ~71rem) */
+.md-grid {
+  max-width: 1200px !important; 
+}
+
+/* 
+Only widen when feedback page wrapper present
+#feedback-page ~ .md-grid,
+#feedback-page .md-grid {
+  max-width: 1200px;
+}
+*/

@@ -1,14 +1,14 @@
-name: Suggestion / Ticket
-description: Share an idea or request related to the docs/site
-title: "Suggestion: "
-labels: ["suggestion", "docs"]
+name: Feedback / Ticket
+description: Share feedback or request related to docs/site
+title: "Feedback: "
+labels: ["feedbaclk", "docs"]
 assignees: []
 body:
   - type: input
     id: page
     attributes:
       label: Page URL
-      description: Auto-filled from the docs button
+      description: Auto-filled from docs button
       placeholder: "https://…"
     validations:
       required: true
@@ -16,15 +16,15 @@ body:
     id: summary
     attributes:
       label: Summary
-      description: A short description of the suggestion or problem
-      placeholder: "What's the idea or issue?"
+      description: Description of feedback or problem
+      placeholder: "Feedback/suggestion or issue"
     validations:
       required: true
   - type: textarea
     id: details
     attributes:
       label: Details / context
-      description: Add any context, examples, or screenshots
+      description: Add context, examples, or screenshots
   - type: dropdown
     id: category
     attributes:
