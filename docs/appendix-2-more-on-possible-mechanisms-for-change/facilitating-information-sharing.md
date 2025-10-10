@@ -1,3 +1,3 @@
 # Facilitating information sharing
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*

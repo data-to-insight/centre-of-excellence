@@ -1,3 +1,3 @@
 # Responding to large-scale change
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*

@@ -1,3 +1,3 @@
 # A case for change
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*

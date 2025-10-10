@@ -1,3 +1,3 @@
 # Redefining cross-sector collaboration
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*

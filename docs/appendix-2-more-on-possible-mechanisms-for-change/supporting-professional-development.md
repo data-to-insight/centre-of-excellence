@@ -1,3 +1,3 @@
 # Supporting professional development
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*

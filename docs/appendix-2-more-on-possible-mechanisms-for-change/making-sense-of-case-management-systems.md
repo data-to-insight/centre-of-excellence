@@ -1,3 +1,3 @@
 # Making sense of case management systems
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*

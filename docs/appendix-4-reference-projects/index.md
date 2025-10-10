@@ -1,3 +1,3 @@
 # Appendix 4: Reference projects
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*

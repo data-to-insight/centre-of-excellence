@@ -1,3 +1,3 @@
 # Influencing technology markets
 
-*(Placeholder — add content here.)*
+*(CoE content placeholder awaiting AH)*
