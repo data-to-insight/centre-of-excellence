@@ -1,0 +1,38 @@
+name: Suggestion / Ticket
+description: Share an idea or request related to the docs/site
+title: "Suggestion: "
+labels: ["suggestion", "docs"]
+assignees: []
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      description: Auto-filled from the docs button
+      placeholder: "https://…"
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: A short description of the suggestion or problem
+      placeholder: "What's the idea or issue?"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details / context
+      description: Add any context, examples, or screenshots
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Content
+        - Navigation / IA
+        - Accessibility
+        - Visual / UI
+        - Performance
+        - Other
