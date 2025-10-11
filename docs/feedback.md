@@ -5,6 +5,7 @@
 
 _(IN DEV / TESTING)_
 Multiple options shown here only as review. Cloudflare and GSheets options unfortunately via RH account. This unavoidable without ESCC intervention. 
+Below shows the feedback endpoints only for dev testing, these, and the repo itself will be/should be set back to private before we start adding either content or taking live feedback. This all just a PoC demo for review. 
 
 <div class="feedback-section" id="email">
 <h2>Feedback - via email</h2>
@@ -17,6 +18,7 @@ Multiple options shown here only as review. Cloudflare and GSheets options unfor
 <div class="feedback-section" id="sheets">
 <h2>Feedback - via Google sheet</h2>
 <p>Goes via Cloudflare worker(RH account), Google App script into Google sheet (RH account)</p>
+<p>Lands here: https://docs.google.com/spreadsheets/d/1DO4D2I2kNSWwPMesh2fIsMzhEUaJXRPzQC0uFHPrakw/edit?usp=sharing</p>
 <form id="gs-form">
   <!-- set by JS -->
   <input type="hidden" name="page" id="gs-page">
@@ -44,6 +46,7 @@ Multiple options shown here only as review. Cloudflare and GSheets options unfor
 <div class="feedback-section" id="anon-gh">
 <h2>Git Issue(Anon) feedback</h2>
 p>Goes via Cloudflare worker(RH account), creates issue(Anon as via Worker) in Git repo using bot token</p>
+<p>Lands here: https://github.com/data-to-insight/centre-of-excellence/issues</p>
 <!-- this uses current CoE repo issues, but it could be pointed at seperate private repo -->
 <form id="ghw-form">
   <!-- set by JS -->
