@@ -1,5 +1,5 @@
 site_name: 'Centre of Excellence (Draft)'
-site_url: https://data-to-insight.github.io/centre-of-excellence # do we want this or another here? 
+site_url: https://data-to-insight.github.io/centre-of-excellence 
 repo_url: https://github.com/data-to-insight/centre-of-excellence
 docs_dir: docs
 
@@ -13,7 +13,7 @@ theme:
     - navigation.top
     - content.code.copy
     - toc.follow
-    - navigation.instant    # im[prove transitions
+    - navigation.instant    # improve transitions
 
 plugins:
   - search
