@@ -1,13 +1,21 @@
 # How to use this document
 
-*(CoE content placeholder awaiting AH)*
+
+**For Children’s Services Data and Digital Professionals**
+
+DRAFT AS AT 2025-10-10 
+October 2025 
+
+**The Data to Insight Consortium**
 
 
 
 
----  
+
 Page footers contain feedback options for your contributions and comment on specific page content. 
 The main [feedback page](feedback.md) also offers additional wider/general options. 
+
+<!--- feedback form only below here -->
 
 <div class="feedback-section feedback-compact is-demo" id="sheets">
   <h2>Page feedback</h2>

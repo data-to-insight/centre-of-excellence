@@ -1,9 +1,24 @@
-# Helping leadership to expect excellence
+## Helping leadership to expect excellence
 
-*(CoE content placeholder awaiting AH)*
+The last focus area we note in relation to professional development relates to professional standards, including leadership expectations, and this deserves further discussion.
+
+Professional development is not only a question of providing development opportunities for willing colleagues, but also of setting standards and helping practice leaders understand what they should expect from their technical colleagues.
+
+The Data to Insight user research approach segments participants by role, allowing us to understand where perspectives differ between practice leads and technical professionals. Our research has repeatedly shown<sup>[^49]</sup>, across many local authorities, instances of struggling data functions being praised by service leaders who don’t know that better is possible, and excellent data functions criticised by service leaders with unrealistic expectations.
+
+Practice leaders already benefit from regional and national approaches to scrutiny and peer challenge, including via sector-led improvement, and use these well to improve local services. We want to work with colleagues across the sector, including regulators like Ofsted, and sector leadership and peer support networks like the Regional Innovation and Improvement Alliances (RIIAs), to help relevant colleagues in all local authorities similarly understand the standards to which their data and digital functions should aspire. Further, we want to develop ways of helping local authorities hold themselves to these standards.
+
+Focus areas for a Centre of Excellence
+
+- > **Developing** senior leaders to help them maintain high quality local data and digital functions, for example via a leadership development programme
+
+- > **Defining** standard cross-sector expectations of local data functions
+
+- > **Enabling** professionals to accurately assess local data and digital maturity, including via sector-led improvement programmes and peer challenges
 
 
----  
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

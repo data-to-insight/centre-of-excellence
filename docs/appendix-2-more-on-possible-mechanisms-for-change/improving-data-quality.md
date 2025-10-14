@@ -1,9 +1,26 @@
-# Improving data quality
+## Improving data quality
 
-*(CoE content placeholder awaiting AH)*
+The best data tool in the world, if such a thing exists, is useless without access to high quality data. And while front line workers – and administrators, too – might see data quality work as unwelcome additional busywork<sup>[^23]</sup>, the topic requires serious and sustained attention.
+
+High quality data is complete, accurate, and relevant to service needs and the wellbeing of children and families. A Centre of Excellence should prioritise finding ways to help local authorities ensure sufficient data quality, as an enabler for every other outcome of effective data work.
+
+Within local authorities, we use data for many different purposes, but we currently tend to over-simplify our assessments of data quality in our work; for many service leaders and analysts, data is either “validated” – which typically means that it has been checked and submitted to central government as part of a statutory data return – or “unvalidated” – which means that it hasn’t. But not every statutory return is complete and accurate, and not every data item outside the statutory return is misleading. Perhaps more importantly, not every item of data analysis requires perfectly accurate data in order to be useful.
+
+The focus on “validated” data can inhibit local leaders from sharing otherwise valuable data assets with local and national partners, and restrict external colleagues’ ability to understand what’s happening within services. With a statutory return regime which means some data is almost two years out of date by the time it sees publication, this is a major inhibitor of timely system understanding. We want to explore the potential for a more nuanced way of describing the data we use, opening the door for more local authorities to work with experimental or pre-publication data in more useful ways to keep data analysis timely, and local services effective.
+
+The concept of data quality, understood correctly, goes beyond questions of accuracy and completeness. It’s also important that we understand the appropriateness of the data we analyse. Whether we’ve selected the right performance measures, whether our targets and tracking can actually improve services for children, and whether our colleagues understand what they ought to be looking for in the data stories we present, all matter just as much as the core data cleansing work. Balancing these competing priorities is one of the hallmarks of data maturity, and a Centre of Excellence should help more local authorities to approach an effective balance.
+
+Focus areas for the Centre of Excellence:
+
+- > **Providing** data quality tools and methods and driving improvement
+
+- > **Defining** suitable data quality standards and best practices for the sector
+
+- > **Balancing** and explaining the elements of data quality and data maturity in LAs
 
 
----  
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

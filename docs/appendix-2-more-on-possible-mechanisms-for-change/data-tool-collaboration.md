@@ -1,9 +1,26 @@
-# Data tool collaboration
+## Data tool collaboration
 
-*(CoE content placeholder awaiting AH)*
+We started Data to Insight in 2020 with a dozen data tools contributed by local authority colleagues and Ofsted, funding from the DfE to pay a person to maintain them, and the goodwill and freely volunteered time of colleagues in numerous local authorities and beyond (including, of course, Social Finance, Coram, the LGA, and the ADCS) to help steer the project and make it a success.
+
+Those shared data tools<sup>[^20]</sup> do simple jobs well: they solve problems that every local authority needs to tackle, with an ethos of “build once, use 150 times” – 150 being the approximate number of statutory safeguarding authorities in England. They remain accessible regardless of each individual authority’s technology stack, data structures, or skills profiles, and they save the sector countless hours of analyst time each year, while contributing to the cross-sector understanding of what good data practice looks like.
+
+Beyond that, they serve as catalysts for further change. Community is crucial in work like this, and communities are not built; they grow of their own accord into the shapes which work best for them. Shared data tools give our community good reason to work together, and generate collaborative energy and strategy which can then be applied to wider problems<sup>[^21]</sup>. By taking this approach, Data to Insight has grown each year since its initial establishment, and now supports far more improvement work in the sector than we first thought possible<sup>[^22]</sup>.
+
+A Centre of Excellence should learn from this example, and identify specific valuable services to offer to key colleagues across the sector from the outset. We think that data tool maintenance, advice, and collaborative design is an obvious component of this offer. Each user is a potential contributor; each contributor is a potential future leader of a new initiative; each new initiative spreads good practice across our sector.
+
+We think, further, that there is opportunity for this kind of collaboration to integrate more closely with the data tools and processes which the Department for Education maintains. A Centre of Excellence could help avoid duplication of effort by convening the whole sector to identify the right homes for the right tools, and ensuring that the right users can access the tools they need for their work, regardless of where the tool originated.
+
+Focus areas for the Centre of Excellence:
+
+- > **Maintaining** and continuously developing key products which the sector can rely on
+
+- > **Advising** local authority users on best practice in using and developing shared tools
+
+- > **Facilitating** collaborative design and development of future shared tools
 
 
----  
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

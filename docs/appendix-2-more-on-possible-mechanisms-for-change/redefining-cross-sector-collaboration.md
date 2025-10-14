@@ -1,9 +1,28 @@
-# Redefining cross-sector collaboration
+## Redefining cross-sector collaboration
 
-*(CoE content placeholder awaiting AH)*
+There is a local-national relationship which comes to the fore when we look to change something about data and digital work in our sector, which can be both challenging and rewarding. Part of the reason it can be challenging is that we imagine a split between what LAs want and what central government wants.
+
+We can cite a great many examples of beneficial cross-sector collaboration, even if we limit the field to work directly involving our consortium’s members. Working with the DfE led to the development of the RIIA Quarterly Dataset<sup>[^50]</sup>, the first nationally-standard quarterly benchmarking exercise for children’s social care leaders. Funding from MHCLG (formerly DLUHC)<sup>[^51]</sup> helped us introduce standard data validation tools which are used by dozens of local authorities<sup>[^52]</sup>. Collaboration with Ofsted helped the sector produce the Children’s Social Care Analysis Tool (ChAT)<sup>[^53]</sup> which almost all local authorities use to support inspection work, and many use as part of their core performance management cycles.
+
+There are also areas where the interactions aren’t always so easy; where, as with the kinds of statutory data returns changes reviewed by the DfE Star Chamber, the primary burdens and benefits of change can sometimes fall on different sides of the relationship, or where complex processes can lengthen the wait to adopt changes we all agree would be beneficial (for example, with the outputs of the innovation projects funded via the Data and Digital Solutions Fund<sup>[^54]</sup>). A Centre of Excellence would naturally continue to seek ways to ensure these kinds of collaborations succeed. But managing these relationships is only part of what a Centre of Excellence could do.
+
+There are problems for which government policy design with formal negotiation leading to ministerial approval and sector acceptance are useful tools to ensure robust long-term solutions to data and digital needs. There are others where a tighter and faster response cycle would benefit the sector, by providing it with rapid iterative development of co-owned solutions to emerging problems.
+
+With a Centre of Excellence to serve as a focal point, cross-sector partners could devise better ways of solving this second set of problems – for example, by managing a technical resource or innovation fund to address new challenges as they emerge, prioritising its capacity based on cross-sector input. With the flexibility to do what matters most, we can improve the ways we organise the cross-sector activities we participate in.
+
+It’s easy for local authorities to complain that central government doesn’t engage well with local government. We’ve made that complaint ourselves. But we’ve seen how national groups like the NPIMG and Data to Insight have helped better integrate local authority perspectives into national policy design. The MacAlister review praised this work and recommended it continue<sup>[^55]</sup>. The work in this area may prove to be about reimagining these relationship not as dialogues and negotiations, but as mutually-interested community members sharing their respective abilities and needs, to arrive at approaches which better serve children. There are things we can do, as a community, to make our systems work better.
+
+Focus areas for the Centre of Excellence:
+
+- > **Co-ordinating** the sector’s cross-government data/digital change processes
+
+- > **Hosting**, funding and creating sector resources shared across levels of government
+
+- > **Helping** local authorities appropriately relate national policy to local delivery
 
 
----  
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

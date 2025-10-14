@@ -1,10 +1,25 @@
-# Discovering what works
+## Discovering what works
 
-*(CoE content placeholder awaiting AH)*
+We know that a huge amount of valuable activity is happening to improve data and digital enablers in our sector<sup>[^56]</sup>. We’re sure there’s a huge amount which even we, despite being active participants in the sector’s highest-profile collaboration networks and funding opportunities, are not aware of. We frequently hear from local authority colleagues who wish they’d been aware of our work earlier.
+
+Making sense of all this activity isn’t easy, even when the activity is visible. We think a key role for a Centre of Excellence is to serve as a connector within and beyond the sector, ensuring valuable insight and capabilities are accessible even to time-poor colleagues, and especially to local authorities whose services for children require improvement. These, after all, are often the local authorities with the most to gain from external example, but the least ability to find or leverage those inputs.
+
+Further, we note a distinction between increasing the efficiency of data and digital work and increasing the effectiveness of data and digital work. We think there is a lack of evidence about which data and digital activities and practices are most effective in improving service delivery to children and families, and therefore where LAs should direct their technical resources.
+
+A Centre of Excellence, in our vision, would map historical and current improvement and innovation activity in accessible ways, and work to support local authorities in connecting with useful learning or products. If successful, this would result in more local authorities collaborating or reusing each other’s good work more often, and everyone having access to new resources to help spark their own creativity. LA activity would organise itself with increasing confidence around those data and digital practices which improve the lives of the children and young people to whom they offer support.
+
+This work would also extend the range of colleagues within LAs who can access such support, enabling more organisations to benefit from sector-led improvement and helping us as system conveners to better align local, regional, and national plans for improving data and digital maturity.
+
+Focus areas for the Centre of Excellence:
+
+- > **Mapping** innovation and improvement activity relevant to the sector
+
+- > **Connecting **colleagues with partners and resources relevant to their problems
+
+- > **Evaluating** data and digital practices, technologies, and delivery partners, to understand relative effectiveness in improving outcomes for children
 
 
----  
-
+<!--- feedback form only below here -->
 
 <div class="feedback-section feedback-compact" id="sheets">
   <h2>Page feedback</h2>

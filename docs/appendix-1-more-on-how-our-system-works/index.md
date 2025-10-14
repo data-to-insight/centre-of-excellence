@@ -1,11 +1,11 @@
 # Appendix 1: More on how our system works
 
-*(CoE content placeholder awaiting AH)*
+Here we provide further detail on our analysis of how our system works. Covering the interacting elements of context, status, value, quality, and cost, this appendix should be read as a continuation of the earlier section of the same title.
 
 
----  
+  
 
-
+<!--- feedback form only below here -->
 <div class="feedback-section feedback-compact" id="sheets">
   <h2>Page feedback</h2>
   <form id="gs-form">

@@ -1,9 +1,50 @@
 # Models for delivery
 
-*(CoE content placeholder awaiting AH)*
+A Centre of Excellence could take many forms. We don’t believe that its role is to do all of everything that we’ve detailed above; that’s the work of the whole sector, and of individual professionals and their teams, to ensure that their services’ support functions remain effective. The Centre of Excellence should help to make sure that:
 
+- > the sector’s data and digital ecosystem **works**,
 
----  
+- > **excellence **proliferates across administrative boundaries,
+
+- > local services help **children**, and
+
+- > national data and digital **enablers** are well delivered and maintained.
+
+Whatever a Centre of Excellence might grow into over time, it will need to begin life as a financially, structurally, and relationally *viable *organisation, so it’s as much our job to design that organisation as to specify its outputs, and for that design work we want to pay attention to models which work in the kinds of complex system we want the Centre of Excellence to support.
+
+John Gall, *Systemantics: How Systems Really Work and How They Fail*
+
+We think that our – and our colleagues’ – ongoing efforts represent examples of simple systems that work, and we think that the Centre of Excellence should organise its initial activity around approaches we know work, with a straightforward organisation structure owning clearly defined delivery domains.
+
+Over time, this picture may become more complex, but starting a new organisation isn’t easy. It will only work if we begin with a clear, prioritised vision.
+
+#### What we imagine right now
+
+We need to stress that **these are ideas, not commitments**. We’ll test further through this project.
+
+In our preparation for this project, we imagined a “hub and spoke” model for Centre of Excellence delivery. A central function (the “hub”) co-ordinates a range of delivery strands (the “spokes”), some of which may be internally managed, some outsourced to sector partners or commercial third parties, and some owned by volunteers or independently funded organisations.
+
+The Centre’s role, in line with the discussion above, would be to understand the whole system and contribute support where it saw potential to deliver improvement. From community networking and signposting, to technical development and maintenance, to bespoke consultancy and advocacy, to user research, service design, and commissioning, **the Centre would deploy its resources in the best interests of the sector and the children and families who need help**, and who therefore need LAs to operate with competence and compassion.
+
+As discussed above, the DfE has already named some of the key initial functions of the Centre of Excellence in the specification for this project:
+
+- - - > Innovation hosting and collaboration
+
+    - > National advocacy and coordination
+
+    - > Best practice and connection[^8]
+
+These represent **a blend of functional and strategic responsibilities** within which there exists broad scope to analyse and understand the likeliest opportunities for impact. The Centre of Excellence should not be dogmatic in holding to its initial activities; our specification will focus on capabilities and responsibilities, with specific activities being representative of those capabilities and responsibilities, not permanent delivery objectives.
+
+We’ll remember at all times that we founded our intention to do this work on the principle that the sector is more likely to benefit from a Centre of Excellence if the sector supports its design, and if it grows from and alongside existing sector-facing institutions and collaborative activities.
+
+We'll also need to remember that we work in a complex system; children’s services data and digital work is not a problem to be solved, but a network of relationships and activities which can be supported or managed in different ways, and which will remain active and adaptive even as we work to understand it.
+
+We believe there is broad consensus in the sector that **this kind of support offer is welcome, timely, and achievable**. What we need to ensure through our design work is that it is well-targeted, sustainable, and **useful**.
+
+E. F. Schumacher, *Small is Beautiful: A Study of Economics as if People Mattered*
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

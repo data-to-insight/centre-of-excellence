@@ -1,9 +1,30 @@
 # Clear opportunities
 
-*(CoE content placeholder awaiting AH)*
+We see our sector as an inter-related system where **context, status, quality,** **value** and **cost** are key factors which interact to determine the whole system’s effectiveness.
 
+From this perspective, we see huge **opportunities to improve safeguarding services** for children and families by improving our data and digital work. There exists a range of virtuous, and indeed vicious, cycles which we can influence to help local authorities and their safeguarding partners work well; we need to design a support offer which recognises the interactivity of these factors, and the real-world constraints faced by individual organisations.
 
----  
+But there’s a difference between knowing how things ought to work, and being able to make them work that way. We intend to design a Centre of Excellence with **optimistic goals and pragmatic approaches**. We already see a range of possible support which the Centre could provide, which we can align to three delivery strands identified in the DfE’s preparatory work for this project:
+
+In the detailed appendices to this paper, we cite prior experience informing our understanding of these work areas, and highlight activities for the Centre of Excellence to consider in more detail. **We welcome feedback** and suggestions to help us refine our thinking as we begin our design work.
+
+Alongside some LA-facing support for specific urgent issues, this programme’s core role is to approach a specification for a future Centre of Excellence. Over the next nine months, we will:
+
+- > **Engage** far and wide
+
+- > **Experiment** with key delivery approaches
+
+- > **Evaluate** evidence to inform our design work
+
+- > **Design** the Centre of Excellence
+
+We’ll engage actively with as many stakeholders as possible during our work. We would especially welcome feedback via our structured feedback form: \[LINK\]
+
+We’ll also engage with as many relevant groups and network meetings as possible, and would welcome further invitations. You can find us online at [*https://www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
+
+The rest of this paper discusses our initial problem analysis in more detail.
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

@@ -1,9 +1,28 @@
-# Advocacy across internal hierarchies
+## Advocacy across internal hierarchies
 
-*(CoE content placeholder awaiting AH)*
+We know local authorities can successfully organise their technical functions in a wide range of structures. In 2022, Social Finance worked with Social Care Wales to find out more about the people who work in data in local authority social services<sup>[^43]</sup>, including mapping several different organisation structures for these functions within local authorities. There’s no one ‘right’ structure which will work best for every local authority, because the organisations differ in so many ways.  
+  
+One key aspect of the organisation structure is the way that authority to act can be split across multiple functions<sup>[^44]</sup>. The person who wants to use a new tool or technique isn’t always the same person who can check that it’s safe, or agree to pay for it.
+
+So, while we want data and digital professionals to be proactive authorities within their domains, we know that at present that’s not always the case<sup>[^45]</sup>, and we expect that authority for change will continue to be shared between multiple business units in many local authorities.
+
+This means that simply putting guidance and resources on a webpage isn't enough to help local authorities actually achieve improvement<sup>[^46]</sup>. The Centre of Excellence will need to inject better practice actively, as well as describing it, and part of this work will be to build a new story of the technical professional’s purpose beyond their functional domain, so that leaders and colleagues properly understand their purpose and remit.
+
+Advocating for this work across organisational hierarchies means reaching not only analysts and other technicians, but the leaders who rely on them, and the social workers who create the data which is their working material.
+
+We know from our consortium’s prior successes that, without this cross-organisational support, some of the things we want to do are possible but others are not. We can share data tools directly with analysts, but, without cross-functional support, we can’t embed new technical standards or professional expectations.
+
+Focus areas for the Centre of Excellence:
+
+- > **Advocating** for technical functions to senior leaders and practitioners
+
+- > **Supporting** solutions which will work in varied structural contexts
+
+- > **Identifying **effective delivery routes for beneficial changes and support offers
 
 
----  
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

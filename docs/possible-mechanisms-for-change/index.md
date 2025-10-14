@@ -1,9 +1,25 @@
 # Possible mechanisms for change
 
-*(CoE content placeholder awaiting AH)*
+There’s a difference between knowing how things ought to work, and being able to make them work that way. **We intend to design a Centre of Excellence with optimistic goals and pragmatic approaches**.
+
+When we started to work together to improve data work in children’s services via Data to Insight, we identified a core positive feedback loop which would guide our activity.<sup>[^5]</sup>
+
+By finding ways for people across the sector to work together, we make better tools, which helps local authorities deliver better services. The better the services, the more likely that they join future collaborations, and the more useful their contributions, meaning the work improves over time.
+
+This mechanism works. We have better shared tools<sup>[^6]</sup> and data collections<sup>[^7]</sup> with a wider range of sponsors and owners, and LA colleagues tell us these help them work more effectively to support children.
+
+Below, we outline what we think a Centre of Excellence could do, and the ways of doing these things which are most likely to work in the real world.
+
+Within each of these conceptual areas, we might imagine an endless list of possible activities. For the purposes this paper, we’ve limited ourselves to three examples per theme, making thirty-six ideas. **We want to know if you think that these ideas are ‘right’**; if they’re logically sound, and if they’re properly scaled, but most importantly if they’re true and useful.
+
+We need to stress that **these are ideas, not commitments**. We’ll test further through this project.
+
+For detailed discussion of these elements, and the reasoning which leads us to our initial assumptions, see Appendix 2.
+
+Our example activities for a Centre of Excellence, as discussed in more detail in Appendix 2:
 
 
----  
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

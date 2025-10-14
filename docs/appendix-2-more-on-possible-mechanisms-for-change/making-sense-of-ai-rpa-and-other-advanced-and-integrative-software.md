@@ -1,9 +1,28 @@
-# Making sense of AI, RPA, and other advanced and integrative software
+## Making sense of AI, RPA, and other advanced and integrative software
 
-*(CoE content placeholder awaiting AH)*
+The split between “case management” and “integrative” software is somewhat artificial, but we think these represent distinct challenges and responses for a Centre of Excellence to consider.
+
+Beyond the core case management systems which represent such significant parts of the wider ecosystem, there exist a wide range of integrative or supplementary third-party software solutions, bespoke local approaches, and shared resources accessible to local authorities. All of these play a part in helping the sector work as it currently does.
+
+But many local authorities either struggle to stay abreast of the market, or find themselves unable to introduce local changes based on external models<sup>[^30]</sup>. We see fragmented use of “Artificial Intelligence” (AI), with little evidence of systematic approaches among LAs to take advantage of AI opportunities<sup>[^31]</sup>. Only one fifth of social workers feel ready for AI, and some have been banned from using AI tools<sup>[^32]</sup>.
+
+We see risks both in ignoring AI, Robotic Process Automation (RPA), and other advanced technologies, and in misapplying them. There are clear opportunities for co-ordinated AI strategy work to help LAs craft their vision for use of these technologies.
+
+Separately, we see challenges in integrating any kind of software with the core case management systems which LAs rely on as their primary record of the work they do with children and families.
+
+We see a Centre of Excellence working both to make sense of the wide variety of useful technology and approaches, and working to help local authorities manage their internal processes so that they can benefit from effective technology, while avoiding wasting money on ineffective implementations. We see integration as a key are of work to ensure that tools can be well used once adopted.
+
+Focus areas for the Centre of Excellence:
+
+- > **Surveying** the technology landscape and developing adoption approaches
+
+- > **Explaining** options to local authorities, including how-to guidance and training
+
+- > **Advocating **for** **good practice by proposing strategies for AI, RPA, and other technologies
 
 
----  
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

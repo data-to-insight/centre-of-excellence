@@ -1,9 +1,26 @@
-# Responding to large-scale change
+## Responding to large-scale change
 
-*(CoE content placeholder awaiting AH)*
+Large-scale change requires its own protocols, and our sector faces multiple large-scale changes in the coming years. The MacAlister review’s recommendations are finding their way into national and local policy in multiple, simultaneous, change programmes which are all likely to require LA action and attention.
+
+The most significant of these, and those directly discussed by the DfE in establishing the concept of a Centre of Excellence, are the Families First programme and the development of Family Hubs. Slightly beyond our primary domain of children’s safeguarding, we also expect major reforms to SEND provisions, and significant organisational disruption for many local authorities adapting to regional devolution, or reorganisation into new unitary authorities.
+
+When Ofsted inspect a local authority, myriad detailed requests for information or analysis can filter down from individual inspectors, through individual service leaders, to arrive on the desk of the same single analyst within the data function. In the same way, these multiple complex change programmes, each with their own national delivery infrastructure, will be met in many local authorities by the same single data and/or digital function, which must then prioritise and deliver as best it can on competing critical demands.
+
+While DfE has rightly highlighted Families First and Family Hubs as areas for our Centre of Excellence project to test support and guidance to local authorities, we’re open-minded about whether or not these specific areas will become part of the core Centre of Excellence design. We need to make sure these do fit with what the Centre of Excellence ought to be, and that we find ways to make sure they will work, and that they will be useful.
+
+In design terms, the crucial question is not around which changes are coming, but what kinds of support a Centre of Excellence can usefully provide in this kinds of situations. This kind of thinking will help us ensure we design a Centre of Excellence which can continue to support through future, as-yet unknown, changes of similar magnitude, but potentially quite different subject matter.
+
+Focus areas for the Centre of Excellence:
+
+- > **Helping** local authorities and government navigate the data and digital challenge of change
+
+- > **Testing** support approaches to identify those which actually work for local authorities
+
+- > **Negotiating** across hierarchies, including between local and national, on the change agenda
 
 
----  
+
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

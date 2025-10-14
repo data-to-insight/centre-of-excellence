@@ -1,9 +1,23 @@
-# Making sense of case management systems
+## Making sense of case management systems
 
-*(CoE content placeholder awaiting AH)*
+We know that the market for CSC case management systems is relatively small, and supports two major providers, with other suppliers having limited market share. This isn’t a unique market – its obvious direct equivalent is in Adult Social Care – but it’s an unusual one<sup>[^26]</sup>.
+
+We also know that social workers are often critical of CMS performance compared to local cost, and that innovative approaches to local deployment and configuration rarely gain traction beyond their LA of origin.
+
+The challenges for LAs stretch across specification, procurement, contracting, administration, and operational usage. These are often compounded by delegated duties within LAs split between business units, particularly between procurement, ICT operations, and social work practice. These three functions often sit in separate parts of the LA organisation<sup>[^27]</sup>, and each risks assuming that the other two are responsible for due diligence on specifying, assessing, and approving a new system’s requirements, meaning that in many LAs the procurement process is far from optimal.
+
+Beyond procurement, systems administration and local tailoring is a crucial but sometimes overlooked element of ensuring that local systems fit their purposes. The current market leaders provide extensive configuration functionality which must be used well by LA employees<sup>[^28]</sup>. This represents an obvious opportunity for sharing good practice, and even sharing resources. Further, it may be a space in which more ambitious approaches to market development could be explored – for example, learning from the Danish KOMBIT model for nationally-brokered local software procurement<sup>[^29]</sup>, or encouraging long-term market transformation towards better future systems.
+
+Focus areas for the Centre of Excellence:
+
+- > **Improving **typical procurement practice and other CMS-related activity
+
+- > **Sharing** and hosting good practice in system configuration and operation, aligned to specific practice models and organisation structures
+
+- > **Challenging** the existing market with new approaches to procurement and development
 
 
----  
+<!--- feedback form only below here -->
 
 
 <div class="feedback-section feedback-compact" id="sheets">

@@ -1,10 +1,16 @@
 # Value
 
-*(CoE content placeholder awaiting AH)*
+Where data work has a suitable level of status – or credibility – in the LA, it controls the remit to design its own functionality to meet the needs of the organisation. This results in higher value work.
+
+Data and digital work, like any work, varies in value according to its relevance, quality, and application. In an effective LA, statutory recording and reporting duties will be managed accurately at efficiently, and remaining capacity directed to appropriately prioritised activity – typically a mix of cyclical maintenance and scrutiny, improvement and innovation, and ad hoc responsive activity.
+
+This work will be of high value if the activity results in positive impact on the services which the LA provides to children and families. Actionable insights, outcomes-focused performance management, and careful systems management for operational efficiency, are all examples of data and digital work which produces value to the organisation. Rote reporting which does not alter service activity – whether because the reporting is irrelevant or inactionable, or because the service is not equipped to respond to data insights – is an example of low value output.
+
+To deliver real value from data and digital work, the whole organisation must align around processes which **use data and digital enablers to help children and families to live well**.
 
 
----  
 
+<!--- feedback form only below here -->
 
 <div class="feedback-section feedback-compact" id="sheets">
   <h2>Page feedback</h2>
