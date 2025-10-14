@@ -10,13 +10,16 @@
   const subject = encodeURIComponent(`CoE feedback: ${title}`);
   const body = encodeURIComponent(
 `
-(Add your feedback below))
+(Thank you for getting in touch, pls add your query or feedback below))
 ${selection}
 
-Summary:
+Role: -
+Organisation: -
+
+Summary / context:
 - 
 
-Details / context:
+Comments / details:
 - `
   );
   btn.href = `mailto:${mailbox}?subject=${subject}&body=${body}`;

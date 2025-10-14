@@ -351,3 +351,32 @@ Compact form font sizing  ===== */
   font: inherit !important;
   font-family: var(--md-text-font, inherit) !important;
 }
+
+
+/* Added role, email & reflections to mini page form */
+
+/* compact: make selects/extra inputs full width like others */
+.md-typeset .feedback-section.feedback-compact select,
+.md-typeset .feedback-section.feedback-compact input[type="email"] {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+  padding: .45rem .6rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .375rem;
+  background: var(--md-default-bg-color);
+  font: inherit !important;
+  font-family: var(--md-text-font, inherit) !important;
+}
+
+/* keep compact grid tidy with extra fields */
+.md-typeset .feedback-section.feedback-compact form {
+  gap: .5rem;
+}
+
+
+/* hide section picker on main form only (kept in DOM for later)
+.md-typeset .feedback-section.feedback-main .hide-on-main {
+  display: none !important;
+} */

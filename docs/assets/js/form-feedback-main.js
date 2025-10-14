@@ -1,3 +1,5 @@
+// form-feedback-main.js
+
 (function () {
   const FORM = document.getElementById("main-form");
   if (!FORM) return;
@@ -165,20 +167,26 @@
     const rankUse = {};
     const rankLik = {};
     IDEAS.forEach(name => {
-      const u = document.getElementById(`use-${slug(name)}`).value.trim();
-      const l = document.getElementById(`like-${slug(name)}`).value.trim();
+      const uEl = document.getElementById(`use-${slug(name)}`);
+      const lEl = document.getElementById(`like-${slug(name)}`);
+      const u = uEl ? (uEl.value || "").trim() : "";
+      const l = lEl ? (lEl.value || "").trim() : "";
       if (u) rankUse[name] = Number(u);
       if (l) rankLik[name] = Number(l);
     });
 
-    // Collect selected activities as an array of strings "Section: item"
+    // Collect selected activities as array of strs "Section: item"
     const acts = [];
     actsDiv.querySelectorAll('input[type="checkbox"]:checked').forEach(cb => acts.push(cb.value));
 
     // Reflections
-    const section  = document.getElementById("mf-section").value.trim();
-    const nature   = document.getElementById("mf-nature").value.trim();
-    const comments = document.getElementById("mf-comments").value.trim();
+    const sectionEl  = document.getElementById("mf-section");
+    const natureEl   = document.getElementById("mf-nature"); // may not exist
+    const commentsEl = document.getElementById("mf-comments");
+
+    const section  = sectionEl  ? (sectionEl.value  || "").trim() : "";
+    // const nature = natureEl   ? (natureEl.value   || "").trim() : "";  // removed from payload
+    const comments = commentsEl ? (commentsEl.value || "").trim() : "";
 
     // Disable UI
     if (btn) {
@@ -200,7 +208,9 @@
           rank_usefulness: rankUse,
           rank_likelihood: rankLik,
           activities: acts,
-          section, nature, comments,
+          section,
+          // nature, // intentionally not sent on main form now
+          comments,
           hp_field: document.getElementById("mf_hp")?.value || ""
         })
       });
