@@ -1,10 +1,9 @@
-## The D2I Consortium
-## Imagining a Centre of Excellence
-
 # Feedback   
 
+Thank you for contributing your thoughts towards any of the following.
+Feedback is annonymous unless you optionally add your organisation/email. 
+
 <div class="feedback-section feedback-main" id="main-feedback">
-  <p>Thank you for contributing to the your thoughts on any of the following</p>
   <form id="main-form" novalidate>
     <!-- hidden -->
     <input type="hidden" id="mf-page" name="page">
