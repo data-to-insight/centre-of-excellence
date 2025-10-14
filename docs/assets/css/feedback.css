@@ -1,58 +1,353 @@
-
+/* ------------------------------
+   Base feedback block (generic)
+   ------------------------------ */
 .feedback-section {
-  margin: 2rem 0;
-  padding: 1.2rem;
+  margin: 1.5rem 0;
+  padding: 1rem;
   border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: .6rem;
+  border-radius: .5rem;
 }
 
-/* Stack fields and give room */
 .feedback-section form {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 0.75rem;              /* vert spacing between controls */
+  gap: .75rem; /* vertical spacing between controls */
 }
 
-/* Labels on own line */
 .feedback-section label {
   display: block;
   font-weight: 600;
-  margin: 0.15rem 0;
+  margin: .15rem 0;
 }
 
-/* Full-width form controls */
-.md-typeset .feedback-section input[type="text"],
-.md-typeset .feedback-section input[type="email"],
-.md-typeset .feedback-section textarea,
-.md-typeset .feedback-section select {
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-}
-
-/* More room for details box */
 .feedback-section textarea {
   min-height: 9rem;
   resize: vertical;
 }
 
-/* Keep buttons from stretching full width */
-.feedback-actions .md-button {
-  width: auto;
+
+/* -----------------------------------
+   Compact variant (per-page mini form)
+   ----------------------------------- */
+
+/* on blocks to compact */
+.feedback-section.feedback-compact {
+  margin: .9rem 0;
+  padding: .65rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .5rem;
+
+  /* Make all inside ~10–11pt (inherits to inputs/labels/placeholders) */
+  font-size: var(--fb-font-size, 0.9rem); /* 0.9rem ≈ 10.8pt */
+}
+
+/* Always stack vertical, tighter gap */
+.md-typeset .feedback-section.feedback-compact form {
+  display: grid !important;
+  grid-template-columns: 1fr !important;
+  grid-auto-rows: auto;
+  gap: .5rem;
+}
+
+/* hidden label still accessible */
+.feedback-section.feedback-compact .sr-only {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0);
+  white-space: nowrap; border: 0;
+}
+
+/* make consistent font across fields, button, labels */
+.md-typeset .feedback-section.feedback-compact input[type="text"]:not(#hp_field),
+.md-typeset .feedback-section.feedback-compact textarea,
+.md-typeset .feedback-section.feedback-compact .md-button,
+.md-typeset .feedback-section.feedback-compact label {
+  font: inherit !important; /* family + size + line-height from container */
+  font-family: var(--md-text-font, inherit) !important;
+  letter-spacing: normal;
+}
+
+/* Full-width input/textarea + compact padding */
+.md-typeset .feedback-section.feedback-compact input[type="text"]:not(#hp_field),
+.md-typeset .feedback-section.feedback-compact textarea {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+  padding: .45rem .6rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .375rem;
+  background: var(--md-default-bg-color);
+}
+
+/* Feedback descr box: min ~3 lines */
+.md-typeset .feedback-section.feedback-compact textarea {
+  min-height: 6rem;             /* ~3+ lines */
+  line-height: 1.35 !important; /* readability for smaller size */
+  resize: vertical;
+}
+
+/* Keep placeholders consistent */
+.md-typeset .feedback-section.feedback-compact input::placeholder,
+.md-typeset .feedback-section.feedback-compact textarea::placeholder {
+  font: inherit !important;
+  color: var(--md-default-fg-color--lighter);
+  opacity: 1; /* Firefox */
+}
+
+/* Hide honey pot/spam */
+.md-typeset .feedback-section.feedback-compact #hp_field {
+  display: none !important;
+}
+
+/* Compact, full-width submit button */
+.md-typeset .feedback-section.feedback-compact .feedback-actions {
+  margin-top: .25rem;
+}
+.md-typeset .feedback-section.feedback-compact .feedback-actions .md-button {
+  display: block !important;
+  width: 100% !important;
+  padding: .22rem .5rem !important;  /* tighter vertical height */
+  line-height: 1 !important;
+  min-height: 0 !important;          /* defeat theme min-height */
+  margin: 0 !important;
+  text-align: center;
+  border-radius: .375rem;
+  box-sizing: border-box;
+  font-size: .9em;                    /* follow container size, but smaller */
+}
+
+
+/* ---------------------------------
+   widen site content area
+   --------------------------------- */
+/* Increase overall page content width */
+.md-grid { max-width: 1200px !important; }
+
+
+/* ===== font size overides inside the form inputs
+Compact form font sizing  ===== */
+
+/* Ref - 0.85rem ≈ 13.6px (~10–11pt) */
+.md-typeset .feedback-section.feedback-compact {
+  --fb-font-size: 0.75rem;
+}
+
+/* coerce size on ALL key elements in compact form */
+.md-typeset .feedback-section.feedback-compact,
+.md-typeset .feedback-section.feedback-compact input[type="text"]:not(#hp_field),
+.md-typeset .feedback-section.feedback-compact textarea,
+.md-typeset .feedback-section.feedback-compact .md-button,
+.md-typeset .feedback-section.feedback-compact label,
+.md-typeset .feedback-section.feedback-compact input::placeholder,
+.md-typeset .feedback-section.feedback-compact textarea::placeholder {
+  font-size: var(--fb-font-size) !important;
+  line-height: 1.25 !important;   /* keep tight */
+  font-family: var(--md-text-font, inherit) !important;
 }
 
 
 
-/* Increase overall MATERIAL content width (default ~71rem) */
-.md-grid {
-  max-width: 1200px !important; 
+/* compact submit button: tighter + disabled/loading + submit state */
+.md-typeset .feedback-section.feedback-compact .feedback-actions .md-button {
+  padding: .18rem .5rem !important;  /* tighter than .22rem */
+  line-height: 1 !important;
+  min-height: 0 !important;
 }
 
-/* 
-Only widen when feedback page wrapper present
-#feedback-page ~ .md-grid,
-#feedback-page .md-grid {
-  max-width: 1200px;
+.md-typeset .feedback-section.feedback-compact .feedback-actions .md-button[disabled] {
+  opacity: .6;
+  cursor: not-allowed;
 }
-*/
+
+.md-typeset .feedback-section.feedback-compact .md-button.is-loading::after {
+  content: "…";
+  margin-left: .4rem;
+}
+
+.md-typeset .feedback-section.feedback-compact form.is-submitting {
+  opacity: .85;
+}
+
+.md-typeset .feedback-section.feedback-compact form.is-submitting input,
+.md-typeset .feedback-section.feedback-compact form.is-submitting textarea {
+  pointer-events: none;
+}
+
+
+
+
+
+/* ---------------------------------
+   MMAIN feedback content area
+   --------------------------------- */
+
+/* Main feedback block: slightly scaled up on compact */
+.feedback-section.feedback-main {
+  margin: 1.2rem 0;
+  padding: 1rem;
+}
+
+/* Use same smaller baseline as compact */
+.md-typeset .feedback-section.feedback-main {
+  font-size: 0.95rem;
+}
+
+/* fieldsets neat */
+.feedback-section.feedback-main fieldset {
+  border: 0;
+  padding: 0;
+  margin: .8rem 0;
+}
+.feedback-section.feedback-main legend {
+  font-weight: 700;
+  margin-bottom: .4rem;
+}
+
+/* Two-col lists on wide screens, single col on small */
+.feedback-section .items-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: .5rem .75rem;
+}
+@media (min-width: 900px) {
+  .feedback-section .items-grid { grid-template-columns: 1fr 1fr; }
+}
+/* Rows in ranking lists */
+.feedback-section .item-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: .5rem;
+  align-items: center;
+}
+
+/* Activity checkboxes */
+.feedback-section .activity-section h4 {
+  margin: .4rem 0 .2rem;
+  font-weight: 600;
+}
+.feedback-section .chk-row {
+  display: block;
+  margin: .15rem 0;
+}
+
+/* Reuse compact button states for consistency */
+.md-typeset .feedback-section.feedback-main .feedback-actions .md-button {
+  display: block !important;
+  width: 100% !important;
+  padding: .22rem .5rem !important;
+  line-height: 1 !important;
+  min-height: 0 !important;
+  margin: .25rem 0 0 !important;
+  text-align: center;
+  border-radius: .375rem;
+  box-sizing: border-box;
+}
+.md-typeset .feedback-section.feedback-main .feedback-actions .md-button[disabled] {
+  opacity: .6; cursor: not-allowed;
+}
+.md-typeset .feedback-section.feedback-main .md-button.is-loading::after {
+  content: "…"; margin-left: .4rem;
+}
+.md-typeset .feedback-section.feedback-main form.is-submitting { opacity: .9; }
+.md-typeset .feedback-section.feedback-main form.is-submitting input,
+.md-typeset .feedback-section.feedback-main form.is-submitting textarea,
+.md-typeset .feedback-section.feedback-main form.is-submitting select {
+  pointer-events: none;
+}
+
+
+/* === Main form tweaks (shrink text, label normal weight, 2c single-column) === */
+
+/* smaller baseline for main form */
+.md-typeset .feedback-section.feedback-main {
+  font-size: 0.7rem !important; /* .9 == ~10–11pt */
+}
+
+/* labels normal weight; legends stay bold */
+.md-typeset .feedback-section.feedback-main label {
+  font-weight: 400 !important;
+}
+
+/* ensure controls/buttons inherit this size + font */
+.md-typeset .feedback-section.feedback-main input[type="text"],
+.md-typeset .feedback-section.feedback-main input[type="email"],
+.md-typeset .feedback-section.feedback-main textarea,
+.md-typeset .feedback-section.feedback-main select,
+.md-typeset .feedback-section.feedback-main .md-button {
+  font: inherit !important;
+  font-family: var(--md-text-font, inherit) !important;
+}
+
+/* 2c Activities: force one column on all widths */
+.feedback-section #activities-list {
+  grid-template-columns: 1fr !important;
+}
+@media (min-width: 800px) {
+  .feedback-section #activities-list {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+
+/* contain grids in content + prevent overflow */
+.md-typeset .feedback-section .items-grid {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* two-column rating lists: prevent overflow with minmax */
+#usefulness-list,
+#likelihood-list {
+  grid-template-columns: minmax(0,1fr) minmax(0,1fr) !important;
+}
+
+/* rating row: allow label wrap; keep select narrow */
+.feedback-section .item-row {
+  grid-template-columns: minmax(0,1fr) auto; /* label | select */
+}
+
+.feedback-section .item-row label {
+  min-width: 0;
+  overflow-wrap: anywhere; /* wrap long ques options */
+}
+
+/* 1–5 dropdown width */
+.feedback-section .item-row .rank {
+  width: 4.5rem;     
+  max-width: 100%;
+}
+
+/* on narrow viewer, fall back to single col for ratings */
+@media (max-width: 700px) {
+  #usefulness-list,
+  #likelihood-list {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+
+/* make Reflections controls full-width */
+.md-typeset .feedback-section.feedback-main #mf-section,
+.md-typeset .feedback-section.feedback-main #mf-nature,
+.md-typeset .feedback-section.feedback-main #mf-comments {
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
+/* selects shrink inside grid and consistent with other fields */
+.md-typeset .feedback-section.feedback-main select,
+.md-typeset .feedback-section.feedback-main textarea,
+.md-typeset .feedback-section.feedback-main input[type="text"],
+.md-typeset .feedback-section.feedback-main input[type="email"] {
+  min-width: 0;                      /* prevents overflow */
+  padding: .45rem .6rem;             /* match compact inputs */
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .375rem;
+  background: var(--md-default-bg-color);
+  font: inherit !important;
+  font-family: var(--md-text-font, inherit) !important;
+}

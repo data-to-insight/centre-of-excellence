@@ -1,4 +1,4 @@
-site_name: 'Centre of Excellence (Draft)'
+site_name: 'The D2I Consortium: Imagining a Centre of Excellence'
 site_url: https://data-to-insight.github.io/centre-of-excellence 
 repo_url: https://github.com/data-to-insight/centre-of-excellence
 docs_dir: docs
@@ -26,7 +26,7 @@ markdown_extensions:
   - toc:
       permalink: true
 nav:
-  - 'How to use this document': index.md
+  # - 'How to use this document': index.md
 
   - 'Imagining a Centre of Excellence':
     - 'Overview': imagining-a-centre-of-excellence/index.md
@@ -39,7 +39,7 @@ nav:
   - 'Models for delivery': models-for-delivery/index.md
   - 'Engagement opportunities': engagement-opportunities/index.md
 
-  - 'Provide feedback': feedback.md # anon feedback / suggestion form
+  - 'Main Feedback Form': feedback.md
 
   - 'Appendices':                          # collapsible grps
     - 'Appendix 1: More on how our system works':
@@ -102,3 +102,6 @@ extra_javascript:
   - assets/js/email-feedback.js
   # google sheet
   - assets/js/form-sheets.js
+
+  # main feedback form handler
+  - assets/js/form-feedback-main.js
