@@ -6,13 +6,13 @@
 
 
 ---  
-At the bottom of each page you'll find a feedback option where we welcome your thoughts and feedback on the specific page content. 
+Page footers contain feedback options for your contributions and comment on specific page content. 
+The main [feedback page](feedback.md) also offers additional wider/general options. 
 
-
-
-<div class="feedback-section feedback-compact" id="sheets">
+<div class="feedback-section feedback-compact is-demo" id="sheets">
   <h2>Page feedback</h2>
-  <form id="gs-form">
+  <form id="gs-form" data-disabled="true" aria-disabled="true">
+
     <input type="hidden" name="page" id="gs-page">
     <input type="text" name="hp_field" id="hp_field" style="display:none" tabindex="-1" autocomplete="off">
 

@@ -3,6 +3,27 @@
   const FORM = document.getElementById("gs-form");
   if (!FORM) return;
 
+  // start of index page demo mode (blocked to avoid feedback from index pg)
+  const WRAP = document.getElementById("sheets");
+  const DISABLED = FORM.dataset.disabled === "true" || (WRAP && WRAP.classList.contains("is-demo"));
+  if (DISABLED) {
+    // set page field for consistency
+    const pageField = document.getElementById("gs-page");
+    if (pageField) pageField.value = location.href;
+
+    // disable all controls and make button inactive
+    FORM.querySelectorAll("input, textarea, select, button").forEach(el => {
+      if (el.type !== "hidden") el.disabled = true;
+    });
+    const btn = FORM.querySelector("button[type='submit']");
+    if (btn) btn.textContent = "Feedback disabled on this page";
+
+    // hard block submits
+    FORM.addEventListener("submit", ev => ev.preventDefault());
+    return; // stop wiring real submit handler
+  } // end of index page demo mode
+
+
   // Browser posts to Cloudflare Worker (not direct to Google)
   const ENDPOINT = "https://coe-feedback-worker.robjharrison.workers.dev/sheets";
   // const ENDPOINT = "https://script.google.com/macros/s/AKfycbz6k8wMBFf3YEzBNPz6Wblm9uQqqlzIdcGsekIHOer1prvlB6srGxpkNbX4hCAUFkTR/exec"; 
