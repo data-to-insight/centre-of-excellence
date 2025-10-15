@@ -30,7 +30,7 @@ To deliver real value from data and digital work, the whole organisation must al
     </select>
     
     <label for="gs-summary" class="sr-only">Summary</label>
-    <input type="text" name="summary" id="gs-summary" required minlength="5" autofocus placeholder="Brief summary (required)">
+    <input type="text" name="summary" id="gs-summary" required minlength="5" placeholder="Brief summary (required)">
 
     <label for="gs-details" class="sr-only">Details</label>
     <textarea name="details" id="gs-details" rows="3" placeholder="Details (optional)"></textarea>

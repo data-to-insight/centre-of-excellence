@@ -12,7 +12,7 @@ Everything in this paper is up for discussion, and we will engage thoroughly bot
 
 #### Feedback form
 
-We would especially welcome your feedback on this document via our structured feedback form: \[LINK\]
+We would especially welcome your feedback on this document via our structured [feedback form](feedback.md).
 
 The form is structured to allow us to analyse responses, in addition to capturing the long-form thoughts you might like to share – and which we will be grateful to read.
 
@@ -29,6 +29,9 @@ Please visit this link to find out more: \[LINK\]
 The best way to keep track of our work is via our webpage, where we’ll publish work, request formal input, and offer opportunities to meet and talk with us at events: [*www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
 
 You can also email us directly at [*d2i.coe@eastsussex.gov.uk*](mailto:d2i.coe@eastsussex.gov.uk)
+
+
+
 
 <!--- feedback form only below here -->
 
@@ -50,7 +53,7 @@ You can also email us directly at [*d2i.coe@eastsussex.gov.uk*](mailto:d2i.coe@e
     </select>
     
     <label for="gs-summary" class="sr-only">Summary</label>
-    <input type="text" name="summary" id="gs-summary" required minlength="5" autofocus placeholder="Brief summary (required)">
+    <input type="text" name="summary" id="gs-summary" required minlength="5" placeholder="Brief summary (required)">
 
     <label for="gs-details" class="sr-only">Details</label>
     <textarea name="details" id="gs-details" rows="3" placeholder="Details (optional)"></textarea>

@@ -8,7 +8,7 @@ mainly for private_ files as these not shown in external/public mkdocs structure
 
 # Extend exclusion lists
 EXCLUDE_DIRS = {
-    '.git', '__pycache__', '.vscode', '.idea', '.github', '.pytest_cache', '.env', 'venv', 'd2i_dev_depreciated_BAK', 'admin', 'd2i_dev', 'docs'
+    '.git', '__pycache__', '.vscode', '.idea', '.github', '.pytest_cache', '.env', 'venv', 'admin', 'd2i_dev', 'docs'
     'site', 'assets', 'javascripts', 'stylesheets', 'images', 'fonts', 'workers', 'lunr'
 }
 EXCLUDE_FILES = {
@@ -47,13 +47,13 @@ if __name__ == '__main__':
     repo_name = os.path.basename(os.path.abspath('.'))
     tree_lines = [f"{repo_name}/"] + build_tree('.')
 
-    # plain text version
+    # plain txt
     txt_path = './admin/repo_structure_overview.txt'
     with open(txt_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(tree_lines))
     print(f"project structure in {txt_path}")
 
-    # markdown version
+    # markdown
     md_path = './admin/repo_structure_overview.md'
     with open(md_path, 'w', encoding='utf-8') as f:
         f.write('# Repo Structure\n\n')

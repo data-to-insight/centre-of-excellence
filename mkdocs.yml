@@ -1,11 +1,12 @@
 site_name: 'The D2I Consortium: Imagining a Centre of Excellence'
-site_url: https://data-to-insight.github.io/centre-of-excellence 
+site_url: https://data-to-insight.github.io/centre-of-excellence/
 repo_url: https://github.com/data-to-insight/centre-of-excellence
 docs_dir: docs
+use_directory_urls: true   # pretty urls docs/pg.md into /pg/ 
 
 theme:
   name: material
-  # custom_dir: overrides # thumbs feedback widget, no G-Analytics (needs : /overrides/partials/integrations/analytics/custom.html)
+  # custom_dir: overrides # thumbs feedback widget, no G-Analytics (chk exists : /overrides/partials/integrations/analytics/custom.html)
   language: en
   features:
     - navigation.sections   # grp sections left nav
@@ -15,8 +16,20 @@ theme:
     - toc.follow
     - navigation.instant    # improve transitions
 
+
 plugins:
   - search
+  # - redirects:
+  #     redirect_maps:
+  #       engagement-opportunities/index.md: engagement-opportunities.md
+  #       how-our-system-works/index.md: how-our-system-works.md
+  #       models-for-delivery/index.md: models-for-delivery.md
+  #       possible-mechanisms-for-change/index.md: possible-mechanisms-for-change.md
+  #       imagining-a-centre-of-excellence/index.md: imagining-a-centre-of-excellence.md
+  #       imagining-a-centre-of-excellence/a-case-for-change.md: imagining-a-centre-of-excellence.md#a-case-for-change
+  #       imagining-a-centre-of-excellence/our-invitation.md:   imagining-a-centre-of-excellence.md#our-invitation
+  #       imagining-a-centre-of-excellence/clear-opportunities.md: imagining-a-centre-of-excellence.md#clear-opportunities
+
 
 markdown_extensions:
   - admonition
@@ -25,50 +38,27 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+
 nav:
-  # - 'How to use this document': index.md
-
-  - 'Imagining a Centre of Excellence':
-    - 'Overview': imagining-a-centre-of-excellence/index.md
-    - 'A case for change': imagining-a-centre-of-excellence/a-case-for-change.md
-    - 'Our invitation': imagining-a-centre-of-excellence/our-invitation.md
-    - 'Clear opportunities': imagining-a-centre-of-excellence/clear-opportunities.md
-
-  - 'How our system works': how-our-system-works/index.md
-  - 'Possible mechanisms for change': possible-mechanisms-for-change/index.md
-  - 'Models for delivery': models-for-delivery/index.md
-  - 'Engagement opportunities': engagement-opportunities/index.md
-
+  - 'Imagining a Centre of Excellence': imagining-a-centre-of-excellence.md
+  - 'How our system works': how-our-system-works.md
+  - 'Possible mechanisms for change': possible-mechanisms-for-change.md
+  - 'Models for delivery': models-for-delivery.md
+  - 'Engagement opportunities': engagement-opportunities.md
   - 'Main Feedback Form': feedback.md
-
-  - 'Appendices':                          # collapsible grps
-    - 'Appendix 1: More on how our system works':
-      - 'Overview': appendix-1-more-on-how-our-system-works/index.md
-      - 'Context': appendix-1-more-on-how-our-system-works/context.md
-      - 'Status': appendix-1-more-on-how-our-system-works/status.md
-      - 'Value': appendix-1-more-on-how-our-system-works/value.md
-      - 'Quality': appendix-1-more-on-how-our-system-works/quality.md
-      - 'Cost': appendix-1-more-on-how-our-system-works/cost.md
-
-    - 'Appendix 2: More on possible mechanisms for change':
-      - 'Overview': appendix-2-more-on-possible-mechanisms-for-change/index.md
-      - 'Data tool collaboration': appendix-2-more-on-possible-mechanisms-for-change/data-tool-collaboration.md
-      - 'Improving data quality': appendix-2-more-on-possible-mechanisms-for-change/improving-data-quality.md
-      - 'Facilitating information sharing': appendix-2-more-on-possible-mechanisms-for-change/facilitating-information-sharing.md
-      - 'Making sense of case management systems': appendix-2-more-on-possible-mechanisms-for-change/making-sense-of-case-management-systems.md
-      - 'Making sense of AI, RPA, and other advanced and integrative software': appendix-2-more-on-possible-mechanisms-for-change/making-sense-of-ai-rpa-and-other-advanced-and-integrative-software.md
-      - 'Influencing technology markets': appendix-2-more-on-possible-mechanisms-for-change/influencing-technology-markets.md
-      - 'Curating technical standards': appendix-2-more-on-possible-mechanisms-for-change/curating-technical-standards.md
-      - 'Advocacy across internal hierarchies': appendix-2-more-on-possible-mechanisms-for-change/advocacy-across-internal-hierarchies.md
-      - 'Supporting professional development': appendix-2-more-on-possible-mechanisms-for-change/supporting-professional-development.md
-      - 'Helping leadership to expect excellence': appendix-2-more-on-possible-mechanisms-for-change/helping-leadership-to-expect-excellence.md
-      - 'Redefining cross-sector collaboration': appendix-2-more-on-possible-mechanisms-for-change/redefining-cross-sector-collaboration.md
-      - 'Responding to large-scale change': appendix-2-more-on-possible-mechanisms-for-change/responding-to-large-scale-change.md
-      - 'Discovering what works': appendix-2-more-on-possible-mechanisms-for-change/discovering-what-works.md
-
-    - 'Appendix 3: More on models for delivery': appendix-3-more-on-models-for-delivery/index.md
-    - 'Appendix 4: Reference projects': appendix-4-reference-projects/index.md
-
+  - 'Appendices':
+      - 'Appendix 1: More on how our system works':
+          - 'Overview': appendix-1-more-on-how-our-system-works/index.md
+          - 'Context': appendix-1-more-on-how-our-system-works/context.md
+          - 'Status': appendix-1-more-on-how-our-system-works/status.md
+          - 'Value': appendix-1-more-on-how-our-system-works/value.md
+          - 'Quality': appendix-1-more-on-how-our-system-works/quality.md
+          - 'Cost': appendix-1-more-on-how-our-system-works/cost.md
+      - 'Appendix 2: More on possible mechanisms for change':
+          - 'Overview': appendix-2-more-on-possible-mechanisms-for-change/index.md
+          - 'Data tool collaboration': appendix-2-more-on-possible-mechanisms-for-change/data-tool-collaboration.md
+      - 'Appendix 3: More on models for delivery': appendix-3-more-on-models-for-delivery.md
+      - 'Appendix 4: Reference projects': appendix-4-reference-projects.md
 
 # extra:
 #   analytics:
@@ -93,7 +83,7 @@ extra_css:
 
 extra_javascript:
 
-  # feedback routes
+  # testing feedback routes
   # git issue 
   - assets/js/feedback.js
   # pr
@@ -103,5 +93,5 @@ extra_javascript:
   # google sheet
   - assets/js/form-sheets.js
 
-  # main feedback form handler
+  # main feedback form handler (also on google sheets)
   - assets/js/form-feedback-main.js

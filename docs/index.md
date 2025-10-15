@@ -1,19 +1,28 @@
-# How to use this document
+
+# The Data to Insight Consortium: Imagining a Centre of Excellence
+## For Children’s Services Data and Digital Professionals
 
 
-**For Children’s Services Data and Digital Professionals**
 
-DRAFT AS AT 2025-10-10 
+DRAFT AS AT 2025-10-10  
 October 2025 
 
-**The Data to Insight Consortium**
 
 
 
 
 
-Page footers contain feedback options for your contributions and comment on specific page content. 
-The main [feedback page](feedback.md) also offers additional wider/general options. 
+
+
+
+## Contributions
+
+Page footers contain a feedback form like the example shown here for your contributions, corrections or comment on the direction of specific page content. We welcome your thoughts and enagement with the suggested topics.  
+
+Additionally a broader, general [feedback page](feedback.md) offers further options to shape future CoE focus. 
+
+
+
 
 <!--- feedback form only below here -->
 
@@ -36,7 +45,7 @@ The main [feedback page](feedback.md) also offers additional wider/general optio
     </select>
     
     <label for="gs-summary" class="sr-only">Summary</label>
-    <input type="text" name="summary" id="gs-summary" required minlength="5" autofocus placeholder="Brief summary (required)">
+    <input type="text" name="summary" id="gs-summary" required minlength="5" placeholder="Brief summary (required)">
 
     <label for="gs-details" class="sr-only">Details</label>
     <textarea name="details" id="gs-details" rows="3" placeholder="Details (optional)"></textarea>

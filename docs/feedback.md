@@ -40,12 +40,12 @@ Feedback is annonymous unless you optionally add your organisation/email.
     </fieldset>
 
     <fieldset>
-      <legend>Please score our ideas by usefulness to the sector, if they were successfully achieved (1–5)</legend>
+      <legend>Please score our ideas by usefulness to the sector, if they were successfully achieved (1 = not at all likely, 5 = very likely)</legend>
       <div id="usefulness-list" class="items-grid"></div>
     </fieldset>
 
     <fieldset>
-      <legend>Please score our ideas by likelihood of your organisation directly using their outputs to achieve local service improvements  (1–5)</legend>
+      <legend>Please score our ideas by likelihood of your organisation directly using their outputs to achieve local service improvements  (1 = not at all likely, 5 = very likely)</legend>
       <div id="likelihood-list" class="items-grid"></div>
     </fieldset>
 
@@ -56,7 +56,7 @@ Feedback is annonymous unless you optionally add your organisation/email.
     </fieldset>
 
 
-  <!-- HIDE ONLY ON MAIN FORM (still posts empty value) -->
+  <!-- HIDE ONLY ON MAIN FORM (still posts empty value in case later switch this back on) -->
     <!-- <fieldset>
       <legend>Reflections (optional)</legend>
 

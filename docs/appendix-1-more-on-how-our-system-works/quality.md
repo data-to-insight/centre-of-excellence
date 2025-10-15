@@ -23,7 +23,7 @@ It might go without saying that no amount of strategic leadership can effectivel
     <input type="text" name="hp_field" id="hp_field" style="display:none" tabindex="-1" autocomplete="off">
 
     <label for="gs-summary" class="sr-only">Summary</label>
-    <input type="text" name="summary" id="gs-summary" required minlength="5" autofocus placeholder="Brief summary (required)">
+    <input type="text" name="summary" id="gs-summary" required minlength="5" placeholder="Brief summary (required)">
 
     <label for="gs-details" class="sr-only">Details</label>
     <textarea name="details" id="gs-details" rows="3" placeholder="Details (optional)"></textarea>

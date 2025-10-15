@@ -130,6 +130,9 @@ During this project, we intend to publish a prototype map of the work happening 
 
 [^62]:  Not listed beyond our identified consortium members for the sake of impartiality
 
+
+
+
 <!--- feedback form only below here -->
 
 <div class="feedback-section feedback-compact" id="sheets">
@@ -150,7 +153,7 @@ During this project, we intend to publish a prototype map of the work happening 
     </select>
     
     <label for="gs-summary" class="sr-only">Summary</label>
-    <input type="text" name="summary" id="gs-summary" required minlength="5" autofocus placeholder="Brief summary (required)">
+    <input type="text" name="summary" id="gs-summary" required minlength="5" placeholder="Brief summary (required)">
 
     <label for="gs-details" class="sr-only">Details</label>
     <textarea name="details" id="gs-details" rows="3" placeholder="Details (optional)"></textarea>
