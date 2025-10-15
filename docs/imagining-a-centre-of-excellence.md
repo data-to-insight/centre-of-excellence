@@ -5,6 +5,8 @@
 
 **Children's social care has long been** **a special place to do data and digital work**. Every data item matters, not only to budgets or work plans, but to the lives and experiences of some of our society’s most vulnerable children and families. Specific technical challenges, and the nuances of local service delivery, combine to make the work as interesting as it is important.
 
+![A case for change](<assets/img/picture6-a-case-for-change.png>)
+
 Many of us began our children’s services careers in a world of paper records and minimal statistics. Since the widespread adoption of electronic case management systems, **we’ve seen significant changes** both to practice frameworks and the wider technology landscape, all in a context of constrained resources. The sector has approached these challenges and opportunities with local innovation and a growing, and active, desire for collaboration towards strategic interventions.
 
 But attempts to use or repurpose longstanding institutions to meet new challenges, and new initiatives and organisations, have highlighted areas where **we could do this work better,** and thereby improve outcomes for individual children and families. **We all need to help make it work**.
