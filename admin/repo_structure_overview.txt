@@ -22,31 +22,20 @@ centre-of-excellence/
 │   │   ├── redefining-cross-sector-collaboration.md
 │   │   ├── responding-to-large-scale-change.md
 │   │   └── supporting-professional-development.md
-│   ├── appendix-3-more-on-models-for-delivery/
-│   │   └── index.md
-│   ├── appendix-4-reference-projects/
-│   │   └── index.md
-│   ├── engagement-opportunities/
-│   │   └── index.md
-│   ├── how-our-system-works/
-│   │   └── index.md
-│   ├── imagining-a-centre-of-excellence/
-│   │   ├── a-case-for-change.md
-│   │   ├── clear-opportunities.md
-│   │   ├── index.md
-│   │   └── our-invitation.md
-│   ├── models-for-delivery/
-│   │   └── index.md
-│   ├── possible-mechanisms-for-change/
-│   │   └── index.md
+│   ├── appendix-3-more-on-models-for-delivery.md
+│   ├── appendix-4-reference-projects.md
+│   ├── engagement-opportunities.md
 │   ├── feedback.md
-│   └── index.md
+│   ├── how-our-system-works.md
+│   ├── imagining-a-centre-of-excellence.md
+│   ├── index.md
+│   ├── models-for-delivery.md
+│   └── possible-mechanisms-for-change.md
 ├── overrides/
 │   └── partials/
 │       └── integrations/
 │           └── analytics/
 │               └── custom.html
-├── scripts/
 ├── LICENSE
 ├── README.md
 ├── mkdocs.yml
