@@ -40,6 +40,7 @@ markdown_extensions:
       permalink: true
 
 nav:
+  - 'How to use this document': how-to-use-this-document.md
   - 'Imagining a Centre of Excellence': imagining-a-centre-of-excellence.md
   - 'How our system works': how-our-system-works.md
   - 'Possible mechanisms for change': possible-mechanisms-for-change.md
