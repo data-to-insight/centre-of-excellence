@@ -12,7 +12,7 @@
     "Improving data quality",
     "Facilitating information sharing",
     "Making sense of case management systems",
-    "Making sense of AI, RPA, and other advanced and integrative software",
+    "Making sense of AI RPA, and other advanced and integrative software",
     "Influencing technology markets",
     "Curating technical standards",
     "Advocacy across internal hierarchies",
@@ -47,7 +47,7 @@
     "Advanced technology": [
       "Surveying the technology landscape and developing adoption approaches",
       "Explaining options to local authorities, including how-to guidance and training",
-      "Advocating for good practice with strategies for AI, RPA, and other technologies"
+      "Advocating for good practice with strategies for AI RPA and other technologies"
     ],
     "Influencing technology markets": [
       "Convening local authorities to reach actionable consensus on market issues",
@@ -66,7 +66,7 @@
     ],
     "Supporting professional development": [
       "Signposting learning opportunities which meet real needs",
-      "Developing provision to meet critical sector needs (training and specialist capacity)",
+      "Developing provision to meet critical sector needs eg-training and specialist capacity",
       "Establishing professional standards for the sector"
     ],
     "Helping leadership to expect excellence": [
@@ -75,14 +75,14 @@
       "Enabling professionals and peers to assess local data and digital maturity"
     ],
     "Redefining cross-sector collaboration": [
-      "Co-ordinating the sector’s cross-government data/digital change processes",
-      "Hosting, funding and creating sector resources shared across levels of government",
+      "Co-ordinating the sectors cross-government data-digital change processes",
+      "Hosting funding and creating sector resources shared across levels of government",
       "Helping local authorities appropriately relate national policy to local delivery"
     ],
     "Responding to large scale change": [
       "Helping LAs and government navigate the data and digital challenge of change",
       "Testing support approaches to identify those which actually work for LAs",
-      "Negotiating across hierarchies, including  local and national, on the change agenda"
+      "Negotiating across hierarchies including local and national on the change agenda"
     ],
     "Discovering what works": [
       "Mapping innovation and improvement activity relevant to the sector",
