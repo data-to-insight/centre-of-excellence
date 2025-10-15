@@ -1,0 +1,53 @@
+centre-of-excellence/
+├── docs/
+│   ├── appendix-1-more-on-how-our-system-works/
+│   │   ├── context.md
+│   │   ├── cost.md
+│   │   ├── index.md
+│   │   ├── quality.md
+│   │   ├── status.md
+│   │   └── value.md
+│   ├── appendix-2-more-on-possible-mechanisms-for-change/
+│   │   ├── advocacy-across-internal-hierarchies.md
+│   │   ├── curating-technical-standards.md
+│   │   ├── data-tool-collaboration.md
+│   │   ├── discovering-what-works.md
+│   │   ├── facilitating-information-sharing.md
+│   │   ├── helping-leadership-to-expect-excellence.md
+│   │   ├── improving-data-quality.md
+│   │   ├── index.md
+│   │   ├── influencing-technology-markets.md
+│   │   ├── making-sense-of-ai-rpa-and-other-advanced-and-integrative-software.md
+│   │   ├── making-sense-of-case-management-systems.md
+│   │   ├── redefining-cross-sector-collaboration.md
+│   │   ├── responding-to-large-scale-change.md
+│   │   └── supporting-professional-development.md
+│   ├── appendix-3-more-on-models-for-delivery/
+│   │   └── index.md
+│   ├── appendix-4-reference-projects/
+│   │   └── index.md
+│   ├── engagement-opportunities/
+│   │   └── index.md
+│   ├── how-our-system-works/
+│   │   └── index.md
+│   ├── imagining-a-centre-of-excellence/
+│   │   ├── a-case-for-change.md
+│   │   ├── clear-opportunities.md
+│   │   ├── index.md
+│   │   └── our-invitation.md
+│   ├── models-for-delivery/
+│   │   └── index.md
+│   ├── possible-mechanisms-for-change/
+│   │   └── index.md
+│   ├── feedback.md
+│   └── index.md
+├── overrides/
+│   └── partials/
+│       └── integrations/
+│           └── analytics/
+│               └── custom.html
+├── scripts/
+├── LICENSE
+├── README.md
+├── mkdocs.yml
+└── requirements.txt
