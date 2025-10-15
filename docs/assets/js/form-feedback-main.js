@@ -12,7 +12,7 @@
     "Improving data quality",
     "Facilitating information sharing",
     "Making sense of case management systems",
-    "Making sense of AI RPA, and other advanced and integrative software",
+    "Making sense of AI RPA and other advanced and integrative software",
     "Influencing technology markets",
     "Curating technical standards",
     "Advocacy across internal hierarchies",
@@ -42,7 +42,7 @@
     "Procurement and configuration": [
       "Improving typical procurement practice and other CMS-related activity",
       "Sharing and hosting good practice in system configuration and operation",
-      "Challenging the existing market with new approaches to procurement/development"
+      "Challenging the existing market with new approaches to procurement-development"
     ],
     "Advanced technology": [
       "Surveying the technology landscape and developing adoption approaches",
