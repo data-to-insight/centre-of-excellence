@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# chmod +x ./admin/dev-gen_repo_structure.py
+
 import os
 
 '''
