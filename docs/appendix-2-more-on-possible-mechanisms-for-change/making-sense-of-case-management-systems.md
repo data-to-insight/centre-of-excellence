@@ -1,21 +1,31 @@
 ## Making sense of case management systems
 
-We know that the market for CSC case management systems is relatively small, and supports two major providers, with other suppliers having limited market share. This isn’t a unique market – its obvious direct equivalent is in Adult Social Care – but it’s an unusual one<sup>[^26]</sup>.
+We know that the market for CSC case management systems is relatively small, and supports two major providers, with other suppliers having limited market share. This isn’t a unique market – its obvious direct equivalent is in Adult Social Care – but it’s an unusual one<sup>26</sup>.
 
 We also know that social workers are often critical of CMS performance compared to local cost, and that innovative approaches to local deployment and configuration rarely gain traction beyond their LA of origin.
 
-The challenges for LAs stretch across specification, procurement, contracting, administration, and operational usage. These are often compounded by delegated duties within LAs split between business units, particularly between procurement, ICT operations, and social work practice. These three functions often sit in separate parts of the LA organisation<sup>[^27]</sup>, and each risks assuming that the other two are responsible for due diligence on specifying, assessing, and approving a new system’s requirements, meaning that in many LAs the procurement process is far from optimal.
+The challenges for LAs stretch across specification, procurement, contracting, administration, and operational usage. These are often compounded by delegated duties within LAs split between business units, particularly between procurement, ICT operations, and social work practice. These three functions often sit in separate parts of the LA organisation<sup>27</sup>, and each risks assuming that the other two are responsible for due diligence on specifying, assessing, and approving a new system’s requirements, meaning that in many LAs the procurement process is far from optimal.
 
-Beyond procurement, systems administration and local tailoring is a crucial but sometimes overlooked element of ensuring that local systems fit their purposes. The current market leaders provide extensive configuration functionality which must be used well by LA employees<sup>[^28]</sup>. This represents an obvious opportunity for sharing good practice, and even sharing resources. Further, it may be a space in which more ambitious approaches to market development could be explored – for example, learning from the Danish KOMBIT model for nationally-brokered local software procurement<sup>[^29]</sup>, or encouraging long-term market transformation towards better future systems.
+Beyond procurement, systems administration and local tailoring is a crucial but sometimes overlooked element of ensuring that local systems fit their purposes. The current market leaders provide extensive configuration functionality which must be used well by LA employees<sup>28</sup>. This represents an obvious opportunity for sharing good practice, and even sharing resources. Further, it may be a space in which more ambitious approaches to market development could be explored – for example, learning from the Danish KOMBIT model for nationally-brokered local software procurement<sup>29</sup>, or encouraging long-term market transformation towards better future systems.
 
 Focus areas for the Centre of Excellence:
 
-- > **Improving **typical procurement practice and other CMS-related activity
+-  <span style="color:darkturquoise">**Improving**</span> typical procurement practice and other CMS-related activity
 
-- > **Sharing** and hosting good practice in system configuration and operation, aligned to specific practice models and organisation structures
+-  <span style="color:deepskyblue">**Sharing**</span> and hosting good practice in system configuration and operation, aligned to specific practice models and organisation structures
 
-- > **Challenging** the existing market with new approaches to procurement and development
+-  <span style="color:rebeccapurple">**Challenging**</span> the existing market with new approaches to procurement and development
 
+
+<!--- footnotes -->
+
+<sup>26</sup> We expect DfE- and DHSC-sponsored publications on this subject in the near future
+
+<sup>27</sup> See also [this](https://socialcare.wales/cms-assets/documents/scoping-a-professional-development-framework-for-social-care.pdf)
+
+<sup>28</sup> For example [System C customisable case management](https://www.systemc.com/local-government/liquidlogic-childrens-case-management/) or [The Access Group customisable case management](https://www.theaccessgroup.com/en-gb/health-social-care/software/social-care-case-management/?_gl=1*yjcjje*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwrJTGBhCbARIsANFBfguWoKctImnRplXcuwgUu_JykRedMn_v9p1dcgmRGo6t037PNJsGsmsaAmEfEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADesmmOY-SwKow_pjsqFedXvd8cg8#:~:text=Customer%2DLed%20Configuration%20enables%20you%20to%20implement%20Case%20Management%20software%20in%20a%20way%20that%20reflects%20your%20organisation)
+
+<sup>29</sup> See p.42 [here](https://www.digitalejugendhilfe.de/fileadmin/uploads/user_upload/Publikationen/Webseite_DK_digitalisation_and_social_services_for_children_Jorgensen.pdf)
 
 <!--- feedback form only below here -->
 

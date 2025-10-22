@@ -1,21 +1,25 @@
 ## Facilitating information sharing
 
-Safeguarding children has never been a solo undertaking, either for organisations or the individual people involved, and recent changes to statutory frameworks and guidance have brought multi-agency working to the fore<sup>[^24]</sup>. This is as true in data and digital work as in front-line services.
+Safeguarding children has never been a solo undertaking, either for organisations or the individual people involved, and recent changes to statutory frameworks and guidance have brought multi-agency working to the fore<sup>24</sup>. This is as true in data and digital work as in front-line services.
 
-Information sharing, in technical terms, requires multiple functions within multiple organisations to act both in the interests of the greater good – because the organisation receiving value from information sharing arrangements is rarely the organisation carrying the bulk of the administrative burden of those arrangements<sup>[^25]</sup> – and in compliance with relevant laws. From data sharing agreements and impact assessments, to system design and configuration, to legal advice and strategic data specification, all the way through to the eventual use of newly-accessible data in local and collaborative analysis products, a single point of failure can not only diminish the possible range of insights available to a service, but can put individual children at direct risk of harm.
+Information sharing, in technical terms, requires multiple functions within multiple organisations to act both in the interests of the greater good – because the organisation receiving value from information sharing arrangements is rarely the organisation carrying the bulk of the administrative burden of those arrangements<sup>25</sup> – and in compliance with relevant laws. From data sharing agreements and impact assessments, to system design and configuration, to legal advice and strategic data specification, all the way through to the eventual use of newly-accessible data in local and collaborative analysis products, a single point of failure can not only diminish the possible range of insights available to a service, but can put individual children at direct risk of harm.
 
 A Centre of Excellence should understand how data sharing works – or doesn’t work – in the context of children’s safeguarding. Further, it should work to improve systems and advocate both for good practice and for possible statutory changes to facilitate information sharing which supports children and families, and to ensure local authorities understand their duties and their possible capabilities.
 
 Focus areas for the Centre of Excellence:
 
-- > **Promoting** good practice in information sharing
+-  <span style="color:orange">**Promoting**</span> good practice in information sharing
 
-- > **Detailing** relevant statutory duties and legislation for easy reference by local authorities
+-  <span style="color:steelblue">**Detailing**</span> relevant statutory duties and legislation for easy reference by local authorities
 
-- > **Advocating **for national policy design to ensure information sharing works for our sector
+-  <span style="color:yellowgreen">**Advocating**</span> for national policy design to ensure information sharing works for our sector
 
 
+<!--- footnotes -->
 
+<sup>24</sup> See also [this](https://www.datatoinsight.org/publications-1/evaluation-of-bristol%E2%80%99s-think-family-database-and-associated-%E2%80%98single-view%E2%80%99-products)
+
+<sup>25</sup> See also [this](https://www.datatoinsight.org/publications-1/research-into-barriers-to-information-sharing)
 
 <!--- feedback form only below here -->
 

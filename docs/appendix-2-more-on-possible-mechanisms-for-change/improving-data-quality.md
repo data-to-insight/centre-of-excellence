@@ -1,4 +1,4 @@
-## Improving data quality
+# <span style="color:dodgerblue">Improving data quality</span>
 
 The best data tool in the world, if such a thing exists, is useless without access to high quality data. And while front line workers – and administrators, too – might see data quality work as unwelcome additional busywork<sup>[^23]</sup>, the topic requires serious and sustained attention.
 
@@ -12,11 +12,11 @@ The concept of data quality, understood correctly, goes beyond questions of accu
 
 Focus areas for the Centre of Excellence:
 
-- > **Providing** data quality tools and methods and driving improvement
+-  <span style="color:rebeccapurple">**Providing**</span> data quality tools and methods and driving improvement
 
-- > **Defining** suitable data quality standards and best practices for the sector
+-  <span style="color:darkturquoise">**Defining**</span> suitable data quality standards and best practices for the sector
 
-- > **Balancing** and explaining the elements of data quality and data maturity in LAs
+-  <span style="color:orange">**Balancing**</span> and explaining the elements of data quality and data maturity in LAs
 
 
 
