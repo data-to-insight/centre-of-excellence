@@ -1,4 +1,4 @@
-## Making sense of case management systems
+# <span style="color:dodgerblue">Making sense of case management systems</span>
 
 We know that the market for CSC case management systems is relatively small, and supports two major providers, with other suppliers having limited market share. This isn’t a unique market – its obvious direct equivalent is in Adult Social Care – but it’s an unusual one<sup>26</sup>.
 

@@ -1,8 +1,8 @@
-##  Supporting professional development
+# <span style="color:dodgerblue">Supporting professional development</span>
 
-We know analysts don't have all the skills they want. We also know that significant numbers of people doing data work in children’s services are willing to invest time in developing their skills, and we also know that many of them hold no formal qualifications in statistical or technological disciplines[^47].
+We know analysts don't have all the skills they want. We also know that significant numbers of people doing data work in children’s services are willing to invest time in developing their skills, and we also know that many of them hold no formal qualifications in statistical or technological disciplines<sup>47</sup>.
 
-Data maturity surveys tell us more about this. In the LGA’s recent survey of local government data capacity and capability, we saw that 67% of respondents identified lack of skilled capacity as a barrier to developing data maturity<sup>[^48]</sup>.
+Data maturity surveys tell us more about this. In the LGA’s recent survey of local government data capacity and capability, we saw that 67% of respondents identified lack of skilled capacity as a barrier to developing data maturity<sup>48</sup>.
 
 So we think professional development is a key pillar of the Centre. But we also think that one size *doesn’t *fit all, and for every happy apprentice there are several more data professionals who, for a range of reasons, don’t feel they’d benefit from an apprenticeship.
 
@@ -14,13 +14,17 @@ Further to this, we think there are some areas of specific technical expertise w
 
 Focus areas for the Centre of Excellence:
 
-- > **Signposting** learning opportunities which meet real needs
+-  <span style="color:yellowgreen">**Signposting**</span> learning opportunities which meet real needs
 
-- > **Developing** provision to meet critical sector needs (both training and specialist capacity)
+-  <span style="color:orange">**Developing**</span> provision to meet critical sector needs (both training and specialist capacity)
 
-- > **Establishing** professional standards for the sector
+-  <span style="color:steelblue">**Establishing**</span> professional standards for the sector
 
+<!--- footnotes -->
 
+<sup>47</sup> The Social Finance / Data to Insight tailored apprenticeship has enrolled over 100 learners from core roles which we estimate total around 700 colleagues nationally at any one time. That’s a significant proportion of a workforce which is willing to commit to a sustained learning effort to develop better skills for their work.
+
+<sup>48</sup> [https://www.local.gov.uk/publications/local-government-data-capacity-and-capability-survey-local-authorities-october](https://www.local.gov.uk/publications/local-government-data-capacity-and-capability-survey-local-authorities-october)
 
 <!--- feedback form only below here -->
 

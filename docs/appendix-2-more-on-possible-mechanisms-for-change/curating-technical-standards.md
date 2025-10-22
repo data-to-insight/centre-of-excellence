@@ -1,8 +1,8 @@
-## Curating technical standards 
+# <span style="color:dodgerblue">Curating technical standards</span>
 
-We know that data standards help local authorities adopt data tools<sup>[^38]</sup>. We know that technical standards enable suppliers to achieve economies of scale and provide affordable, effective products to local authorities<sup>[^39]</sup>. We also know that several central government departments are currently engaged in significant programmes to develop and implement new technical and data standards in areas relevant to our sector<sup>[^40]</sup>.
+We know that data standards help local authorities adopt data tools<sup>38</sup>. We know that technical standards enable suppliers to achieve economies of scale and provide affordable, effective products to local authorities<sup>39</sup>. We also know that several central government departments are currently engaged in significant programmes to develop and implement new technical and data standards in areas relevant to our sector<sup>40</sup>.
 
-What we don’t know is how these new standards will be maintained and developed post-implementation to ensure they are effective, relevant, and affordable into the future. Some of the existing approaches to governing standards in our sector, like the Star Chamber process for consulting on new statutory data requirements, are already struggling to accommodate the scale of change now happening<sup>[^41]</sup>, and further practice reforms await us in the Families First programme and others. And, even without these changes, local authorities tell us that existing standards are insufficient for their analysis needs<sup>[^42]</sup>.  
+What we don’t know is how these new standards will be maintained and developed post-implementation to ensure they are effective, relevant, and affordable into the future. Some of the existing approaches to governing standards in our sector, like the Star Chamber process for consulting on new statutory data requirements, are already struggling to accommodate the scale of change now happening<sup>41</sup>, and further practice reforms await us in the Families First programme and others. And, even without these changes, local authorities tell us that existing standards are insufficient for their analysis needs<sup>42</sup>.  
 
 We need our standards ecosystem to function well to enable everything else we do in data and digital for children’s safeguarding services. We should lean on standards where possible to help local authorities adopt and share resources, but only if those standards can be well understood and supported for future change.
 
@@ -10,13 +10,23 @@ As such, introducing and curating better standards is a key element in our Centr
 
 Focus areas for the Centre of Excellence:
 
-- > **Curating** relevant technical and data standards for our sector
+-  <span style="color:deepskyblue">**Curating**</span> relevant technical and data standards for our sector
 
-- > **Managing** processes for changes to relevant standards
+-  <span style="color:yellowgreen">**Managing**</span> processes for changes to relevant standards
 
-- > **Interacting** with wider cross-government standards work to find the right home for our needs
+-  <span style="color:rebeccapurple">**Interacting**</span> with wider cross-government standards work to find the right home for our needs
 
+<!--- footnotes -->
 
+<sup>38</sup> For example, compare the representation of around 150 LAs in our quarterly RIIA CSC data collection, founded on longstanding national data standards, with the representation of around 90 LAs in our equivalent Early Help data collection, for which no national data standards previously existed.
+
+<sup>39</sup> For example, use of the D2I ”standard safeguarding dataset“ approach to enable the [DfE CSC private dashboard](https://assets.publishing.service.gov.uk/media/682dc0e7b33f68eaba9538e7/childrens-social-care-private-dashboard-principles-for-data-collection-and-use.pdf)
+
+<sup>40</sup> See section titled "influencing technology markets", above.
+
+<sup>41</sup> See section titled "the status of the work", above.
+
+<sup>42</sup> In addition to previously cited user research and details of government standards programmes, see also for example [this call from the newly-established South East Regional Care Co-operative](https://www.seslip.co.uk/south-east-rcc-briefing/) for better data to inform placement sufficiency work
 
 <!--- feedback form only below here -->
 

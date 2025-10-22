@@ -1,6 +1,6 @@
-## Discovering what works
+# <span style="color:dodgerblue">Discovering what works</span>
 
-We know that a huge amount of valuable activity is happening to improve data and digital enablers in our sector<sup>[^56]</sup>. We’re sure there’s a huge amount which even we, despite being active participants in the sector’s highest-profile collaboration networks and funding opportunities, are not aware of. We frequently hear from local authority colleagues who wish they’d been aware of our work earlier.
+We know that a huge amount of valuable activity is happening to improve data and digital enablers in our sector<sup>56</sup>. We’re sure there’s a huge amount which even we, despite being active participants in the sector’s highest-profile collaboration networks and funding opportunities, are not aware of. We frequently hear from local authority colleagues who wish they’d been aware of our work earlier.
 
 Making sense of all this activity isn’t easy, even when the activity is visible. We think a key role for a Centre of Excellence is to serve as a connector within and beyond the sector, ensuring valuable insight and capabilities are accessible even to time-poor colleagues, and especially to local authorities whose services for children require improvement. These, after all, are often the local authorities with the most to gain from external example, but the least ability to find or leverage those inputs.
 
@@ -12,12 +12,16 @@ This work would also extend the range of colleagues within LAs who can access su
 
 Focus areas for the Centre of Excellence:
 
-- > **Mapping** innovation and improvement activity relevant to the sector
+-  <span style="color:yellowgreen">**Mapping**</span> innovation and improvement activity relevant to the sector
 
-- > **Connecting **colleagues with partners and resources relevant to their problems
+-  <span style="color:steelblue">**Connecting**</span> colleagues with partners and resources relevant to their problems
 
-- > **Evaluating** data and digital practices, technologies, and delivery partners, to understand relative effectiveness in improving outcomes for children
+-  <span style="color:orange">**Evaluating**</span> data and digital practices, technologies, and delivery partners, to understand relative effectiveness in improving outcomes for children
 
+
+<!--- footnotes -->
+
+<sup>56</sup> In preparing for this project, we collated a list of over 100 projects which organisations within our consortium had supported; as noted in Appendex 4, we will aim to publish this as an extensible community resource as part of this project.
 
 <!--- feedback form only below here -->
 

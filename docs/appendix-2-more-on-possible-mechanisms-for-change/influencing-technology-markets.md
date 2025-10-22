@@ -1,8 +1,8 @@
-## Influencing technology markets
+# <span style="color:dodgerblue">Influencing technology markets</span>
 
 A Centre of Excellence is not only a compendium of current good practice. It should exist in part to influence the wider systems within the sector so that positive changes can happen. This is nowhere more true than in the technology market.
 
-The Department for Education<sup>[^33]</sup>, the Department for Health and Social Care<sup>[^34]</sup>, and the Ministry for Housing, Communities, and Local Government<sup>[^35]</sup> are all engaged in significant research and design projects to make sense of technology markets and standards relevant to our sector. Many of our colleagues in local authorities are contributing to these work programmes and others besides. Recently, with the help of more than half<sup>[^36]</sup> of English statutory safeguarding authorities, we established NVEST, the National Voice for Excellence in Safeguarding Technology<sup>[^37]</sup>, to bring local authorities together and make intelligible, aligned contributions to these discussions.
+The Department for Education<sup>33</sup>, the Department for Health and Social Care<sup>34</sup>, and the Ministry for Housing, Communities, and Local Government<sup>35</sup> are all engaged in significant research and design projects to make sense of technology markets and standards relevant to our sector. Many of our colleagues in local authorities are contributing to these work programmes and others besides. Recently, with the help of more than half<sup>36</sup> of English statutory safeguarding authorities, we established NVEST, the National Voice for Excellence in Safeguarding Technology<sup>37</sup>, to bring local authorities together and make intelligible, aligned contributions to these discussions.
 
 A Centre of Excellence should play a leading role in continuing that work. It should work actively and deliberately to change the world so that local authorities are better able to get the technology they need. This work will develop as its participants learn more about the goals they want to pursue and the methods to achieve them, but it will probably include engaging directly with suppliers, convening local authorities – and functions within local authorities – to specify and agree strategies for change, and liaising with central government to help design policy instruments which result in an improved technology market without destabilising those elements which local authorities currently rely on.
 
@@ -12,13 +12,23 @@ Local authorities currently act on technology markets as individual customers. B
 
 Focus areas for the Centre of Excellence:
 
-- > **Convening** local authorities to reach actionable consensus on market issues
+-  <span style="color:yellowgreen">**Convening**</span> local authorities to reach actionable consensus on market issues
 
-- > **Liaising** with central government to scope useful policy instruments
+-  <span style="color:deepskyblue">**Liaising**</span> with central government to scope useful policy instruments
 
-- > **Engaging** with suppliers to maintain dialogue on mutually beneficial market behaviours
+-  <span style="color:orange">**Engaging**</span> with suppliers to maintain dialogue on mutually beneficial market behaviours
 
+<!--- footnotes -->
 
+<sup>33</sup> [https://www.gov.uk/government/publications/childrens-social-care-data-and-digital-strategy/childrens-social-care-data-and-digital-strategy](https://www.gov.uk/government/publications/childrens-social-care-data-and-digital-strategy/childrens-social-care-data-and-digital-strategy)
+
+<sup>34</sup> [https://www.find-tender.service.gov.uk/Notice/008322-2025](https://www.find-tender.service.gov.uk/Notice/008322-2025)
+
+<sup>35</sup> [https://www.localdigital.gov.uk/data-standards/](https://www.localdigital.gov.uk/data-standards/)
+
+<sup>36</sup> [https://www.datatoinsight.org/post/nvest-newsletter-june-2025](https://www.datatoinsight.org/post/nvest-newsletter-june-2025)
+
+<sup>37</sup> [https://www.datatoinsight.org/nvest](https://www.datatoinsight.org/nvest)
 
 <!--- feedback form only below here -->
 

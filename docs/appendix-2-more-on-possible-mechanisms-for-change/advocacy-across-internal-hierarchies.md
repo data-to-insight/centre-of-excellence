@@ -1,12 +1,12 @@
-## Advocacy across internal hierarchies
+# <span style="color:dodgerblue">Advocacy across internal hierarchies</span>
 
-We know local authorities can successfully organise their technical functions in a wide range of structures. In 2022, Social Finance worked with Social Care Wales to find out more about the people who work in data in local authority social services<sup>[^43]</sup>, including mapping several different organisation structures for these functions within local authorities. There’s no one ‘right’ structure which will work best for every local authority, because the organisations differ in so many ways.  
+We know local authorities can successfully organise their technical functions in a wide range of structures. In 2022, Social Finance worked with Social Care Wales to find out more about the people who work in data in local authority social services<sup>43</sup>, including mapping several different organisation structures for these functions within local authorities. There’s no one ‘right’ structure which will work best for every local authority, because the organisations differ in so many ways.  
   
-One key aspect of the organisation structure is the way that authority to act can be split across multiple functions<sup>[^44]</sup>. The person who wants to use a new tool or technique isn’t always the same person who can check that it’s safe, or agree to pay for it.
+One key aspect of the organisation structure is the way that authority to act can be split across multiple functions<sup>44</sup>. The person who wants to use a new tool or technique isn’t always the same person who can check that it’s safe, or agree to pay for it.
 
-So, while we want data and digital professionals to be proactive authorities within their domains, we know that at present that’s not always the case<sup>[^45]</sup>, and we expect that authority for change will continue to be shared between multiple business units in many local authorities.
+So, while we want data and digital professionals to be proactive authorities within their domains, we know that at present that’s not always the case<sup>45</sup>, and we expect that authority for change will continue to be shared between multiple business units in many local authorities.
 
-This means that simply putting guidance and resources on a webpage isn't enough to help local authorities actually achieve improvement<sup>[^46]</sup>. The Centre of Excellence will need to inject better practice actively, as well as describing it, and part of this work will be to build a new story of the technical professional’s purpose beyond their functional domain, so that leaders and colleagues properly understand their purpose and remit.
+This means that simply putting guidance and resources on a webpage isn't enough to help local authorities actually achieve improvement<sup>46</sup>. The Centre of Excellence will need to inject better practice actively, as well as describing it, and part of this work will be to build a new story of the technical professional’s purpose beyond their functional domain, so that leaders and colleagues properly understand their purpose and remit.
 
 Advocating for this work across organisational hierarchies means reaching not only analysts and other technicians, but the leaders who rely on them, and the social workers who create the data which is their working material.
 
@@ -14,13 +14,21 @@ We know from our consortium’s prior successes that, without this cross-organis
 
 Focus areas for the Centre of Excellence:
 
-- > **Advocating** for technical functions to senior leaders and practitioners
+-  <span style="color:deepskyblue">**Advocating**</span> for technical functions to senior leaders and practitioners
 
-- > **Supporting** solutions which will work in varied structural contexts
+-  <span style="color:orange">**Supporting**</span> solutions which will work in varied structural contexts
 
-- > **Identifying **effective delivery routes for beneficial changes and support offers
+-  <span style="color:steelblue">**Identifying**</span> effective delivery routes for beneficial changes and support offers
 
+<!--- footnotes -->
 
+<sup>43</sup> [https://socialcare.wales/cms-assets/documents/scoping-a-professional-development-framework-for-social-care.pdf](https://socialcare.wales/cms-assets/documents/scoping-a-professional-development-framework-for-social-care.pdf)
+
+<sup>44</sup> One small example of this is in how, for the ADCS Safeguarding Pressures 9 survey, LAs were better able to respond to the data component, completed by one internal function, than the qualitative element, which typically necessitated some internal collaboration: [https://www.adcs.org.uk/wp-content/uploads/2025/01/ADCS_Safeguarding_Pressures_Phase9_FINALv1.pdf](https://www.adcs.org.uk/wp-content/uploads/2025/01/ADCS_Safeguarding_Pressures_Phase9_FINALv1.pdf)
+
+<sup>45</sup> For detailed analysis of current data and digital maturity in local government, see [here](https://www.local.gov.uk/publications/local-government-data-capacity-and-capability-survey-local-authorities-october)
+
+<sup>46</sup> We note, for example, little change in LA procurement practice following publication of [this valid DfE guidance](https://www.gov.uk/government/publications/childrens-social-care-improving-case-management-systems/improving-case-management-systems-for-childrens-social-care-services)
 
 <!--- feedback form only below here -->
 

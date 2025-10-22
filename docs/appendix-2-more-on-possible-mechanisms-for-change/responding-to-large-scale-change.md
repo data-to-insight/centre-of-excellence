@@ -1,4 +1,4 @@
-## Responding to large-scale change
+# <span style="color:dodgerblue">Responding to large-scale change</span>
 
 Large-scale change requires its own protocols, and our sector faces multiple large-scale changes in the coming years. The MacAlister review’s recommendations are finding their way into national and local policy in multiple, simultaneous, change programmes which are all likely to require LA action and attention.
 
@@ -12,11 +12,11 @@ In design terms, the crucial question is not around which changes are coming, bu
 
 Focus areas for the Centre of Excellence:
 
-- > **Helping** local authorities and government navigate the data and digital challenge of change
+-  <span style="color:rebeccapurple">**Helping**</span> local authorities and government navigate the data and digital challenge of change
 
-- > **Testing** support approaches to identify those which actually work for local authorities
+-  <span style="color:deepskyblue">**Testing**</span> support approaches to identify those which actually work for local authorities
 
-- > **Negotiating** across hierarchies, including between local and national, on the change agenda
+-  <span style="color:yellowgreen">**Negotiating**</span> across hierarchies, including between local and national, on the change agenda
 
 
 

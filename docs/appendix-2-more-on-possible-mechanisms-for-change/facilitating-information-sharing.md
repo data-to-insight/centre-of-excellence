@@ -1,4 +1,4 @@
-## Facilitating information sharing
+# <span style="color:dodgerblue">Facilitating information sharing</span>
 
 Safeguarding children has never been a solo undertaking, either for organisations or the individual people involved, and recent changes to statutory frameworks and guidance have brought multi-agency working to the fore<sup>24</sup>. This is as true in data and digital work as in front-line services.
 
