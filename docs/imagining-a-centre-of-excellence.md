@@ -47,7 +47,7 @@ Alongside some LA-facing support for specific urgent issues, this programme’s 
 
 We’ll engage actively with as many stakeholders as possible during our work. We would especially welcome feedback via our structured [feedback page](feedback.md)
 
-We’ll also engage with as many relevant groups and network meetings as possible, and would welcome further invitations. You can find us online at [*https://www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
+We’ll also engage with as many relevant groups and network meetings as possible, and would welcome further invitations. You can find us online at [https://www.datatoinsight.org/coe](https://www.datatoinsight.org/coe)
 
 The rest of this paper discusses our initial problem analysis in more detail.
 

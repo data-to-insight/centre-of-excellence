@@ -1,16 +1,16 @@
-# Engagement opportunities
+# <span style="color:dodgerblue">Engagement opportunities</span>
 
 This report launches the first of two formal engagement processes in a single year project to scope and design the Centre of Excellence, including recommendations as to its establishment and implementation. Within this year’s work, we will:
 
-- > **Design **the Centre of Excellence, including recommendations regarding its scale, remit, resources, structure, business model, and sector relationships
+-  <span style="color:steelblue">**Design**</span> the Centre of Excellence, including recommendations regarding its scale, remit, resources, structure, business model, and sector relationships
 
-- > **Engage** far and wide, seeking views from everyone, analysing feedback to make sense of the whole picture, and consequently refining our designs in liaison with the DfE
+-  <span style="color:darkturquoise">**Engage**</span> far and wide, seeking views from everyone, analysing feedback to make sense of the whole picture, and consequently refining our designs in liaison with the DfE
 
-- > **Test** key delivery approaches, including around CMS configuration, community networking and signposting, and LA-facing support on current national change programmes
+-  <span style="color:rebeccapurple">**Test**</span> key delivery approaches, including around CMS configuration, community networking and signposting, and LA-facing support on current national change programmes
 
 Everything in this paper is up for discussion, and we will engage thoroughly both within the sector and beyond it while refining our vision and developing our specification for the Centre of Excellence.
 
-#### Feedback form
+#### <span style="color:dodgerblue">Feedback form</span>
 
 We would especially welcome your feedback on this document via our structured [feedback form](feedback.md).
 
@@ -18,17 +18,17 @@ The form is structured to allow us to analyse responses, in addition to capturin
 
 Anonymous feedback is welcome, but **providing some information about yourself allows us to better understand the diversity of perspectives within our sector**. While we will never share your personal details beyond our project team, we include an option to permit follow-up contact if you’d be happy to hear from us in response to your feedback.
 
-#### Data maturity survey
+#### <span style="color:dodgerblue">Data maturity survey<span>
 
 As part of our information gathering, we are running an updated data maturity survey, developing from the Stronger Families data maturity survey, and benefiting from the expertise of the Local Government Association and other consortium partners.
 
-Please visit this link to find out more: [*www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
+Please visit this link to find out more: [www.datatoinsight.org/coe](https://www.datatoinsight.org/coe)
 
-#### Find us on the internet
+#### <span style="color:dodgerblue">Find us on the internet<span>
 
-The best way to keep track of our work is via our webpage, where we’ll publish work, request formal input, and offer opportunities to meet and talk with us at events: [*www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
+The best way to keep track of our work is via our webpage, where we’ll publish work, request formal input, and offer opportunities to meet and talk with us at events: [www.datatoinsight.org/coe](https://www.datatoinsight.org/coe)
 
-You can also email us directly at [*d2i.coe@eastsussex.gov.uk*](mailto:d2i.coe@eastsussex.gov.uk)
+You can also email us directly at [d2i.coe@eastsussex.gov.uk](mailto:d2i.coe@eastsussex.gov.uk)
 
 
 

@@ -1,14 +1,14 @@
-# Models for delivery
+# <span style="color:dodgerblue">Models for delivery</span>
 
 A Centre of Excellence could take many forms. We don’t believe that its role is to do all of everything that we’ve detailed above; that’s the work of the whole sector, and of individual professionals and their teams, to ensure that their services’ support functions remain effective. The Centre of Excellence should help to make sure that:
 
--  the sector’s data and digital ecosystem **works**,
+-  the sector’s data and digital ecosystem <span style="color:darkturquoise">**works**</span>,
 
--  **excellence **proliferates across administrative boundaries,
+-  <span style="color:deepskyblue">**excellence**</span> proliferates across administrative boundaries,
 
--  local services help **children**, and
+-  local services help <span style="color:steelblue">**children**</span>, and
 
--  national data and digital **enablers** are well delivered and maintained.python3 -m mkdocs serve -a 0.0.0.0:8000
+-  national data and digital <span style="color:rebeccapurple">**enablers**</span> are well delivered and maintained.
 
 Whatever a Centre of Excellence might grow into over time, it will need to begin life as a financially, structurally, and relationally *viable *organisation, so it’s as much our job to design that organisation as to specify its outputs, and for that design work we want to pay attention to models which work in the kinds of complex system we want the Centre of Excellence to support.
 
@@ -22,7 +22,7 @@ We think that our – and our colleagues’ – ongoing efforts represent exampl
 
 Over time, this picture may become more complex, but starting a new organisation isn’t easy. It will only work if we begin with a clear, prioritised vision.
 
-#### What we imagine right now
+#### <span style="color:dodgerblue">What we imagine right now</span>
 
 We need to stress that **these are ideas, not commitments**. We’ll test further through this project.
 
@@ -32,11 +32,11 @@ The Centre’s role, in line with the discussion above, would be to understand t
 
 As discussed above, the DfE has already named some of the key initial functions of the Centre of Excellence in the specification for this project:
 
-- - - > Innovation hosting and collaboration
+-  Innovation hosting and collaboration
 
-    - > National advocacy and coordination
+-  National advocacy and coordination
 
-    - > Best practice and connection[^8]
+-  Best practice and connection<sup>8</sup>
 
 These represent **a blend of functional and strategic responsibilities** within which there exists broad scope to analyse and understand the likeliest opportunities for impact. The Centre of Excellence should not be dogmatic in holding to its initial activities; our specification will focus on capabilities and responsibilities, with specific activities being representative of those capabilities and responsibilities, not permanent delivery objectives.
 
@@ -46,7 +46,19 @@ We'll also need to remember that we work in a complex system; children’s servi
 
 We believe there is broad consensus in the sector that **this kind of support offer is welcome, timely, and achievable**. What we need to ensure through our design work is that it is well-targeted, sustainable, and **useful**.
 
-E. F. Schumacher, *Small is Beautiful: A Study of Economics as if People Mattered*
+>A change of this kind requires a lot of work, a lot of new thinking and planning…with many natural obstacles and difficulties to be overcome. How is the centre…to speed the change-over? 
+>
+>It can, of course, preach the new doctrine. But what is the use, if everybody agrees anyhow? […] Alternatively, the centre can issue instructions, but…will incur the valid criticism [of] losing the creative participation of the…people who are most closely in touch with the actual job. 
+>
+>Neither the soft method of government by exhortation nor the tough method of government by instruction meets the requirements of the case…
+>
+>Discovering a middle axiom is always a considerable achievement. To preach is easy; so also is issuing instructions. But it is difficult indeed for top management to carry through its creative ideas without impairing the freedom and responsibility of the lower formations.
+>
+> -- <cite>E. F. Schumacher, *Small is Beautiful: A Study of Economics as if People Mattered*</cite>
+
+
+<!--- footnotes -->
+<sup>8</sup> [https://www.contractsfinder.service.gov.uk/Notice/fd848d6e-7db7-4312-9121-fb26dce7be2d](https://www.contractsfinder.service.gov.uk/Notice/fd848d6e-7db7-4312-9121-fb26dce7be2d)
 
 <!--- feedback form only below here -->
 
