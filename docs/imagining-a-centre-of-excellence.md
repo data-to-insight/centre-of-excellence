@@ -1,22 +1,21 @@
-# Imagining a Centre of Excellence
+# <span style="color:dodgerblue">Imagining a Centre of Excellence</span>
 
+## <span style="color:dodgerblue">A case for change</span>
 
-## A case for change {#a-case-for-change}
-
-**Children's social care has long been** **a special place to do data and digital work**. Every data item matters, not only to budgets or work plans, but to the lives and experiences of some of our society’s most vulnerable children and families. Specific technical challenges, and the nuances of local service delivery, combine to make the work as interesting as it is important.
-
-![A case for change](<assets/img/picture6-a-case-for-change.png>)
+**Children's social care has long been a special place to do data and digital work**. Every data item matters, not only to budgets or work plans, but to the lives and experiences of some of our society’s most vulnerable children and families. Specific technical challenges, and the nuances of local service delivery, combine to make the work as interesting as it is important.
 
 Many of us began our children’s services careers in a world of paper records and minimal statistics. Since the widespread adoption of electronic case management systems, **we’ve seen significant changes** both to practice frameworks and the wider technology landscape, all in a context of constrained resources. The sector has approached these challenges and opportunities with local innovation and a growing, and active, desire for collaboration towards strategic interventions.
 
 But attempts to use or repurpose longstanding institutions to meet new challenges, and new initiatives and organisations, have highlighted areas where **we could do this work better,** and thereby improve outcomes for individual children and families. **We all need to help make it work**.
 
 
-## Our invitation {#our-invitation}
+## <span style="color:dodgerblue">Our invitation</span>
 
-With DfE funding, we’re scoping and designing a “Centre of Excellence” – **a national support offer** for data and digital work in children’s social care<sup>[^1]</sup>.
+With DfE funding, we’re scoping and designing a “Centre of Excellence” – **a national support offer** for data and digital work in children’s social care<sup>1</sup>.
 
-The Centre of Excellence is part of the government's wider reform agenda for children's social care. It should build capacity in the sector to adopt the data and digital changes that come with significant reform, as well as supporting the sector to introduce key national objectives like a Single Unique Identifier and improvements to multi-agency information sharing.<sup>[^2]</sup> Further, it should serve as a sustainable resource for sector-led improvements in local authority data and digital work.
+ ![Flowchart showing project outline from October 2025 starting engagement to Summer 2026 reporting to DfE and beginning phase 2 to establish a sustainable Centre of Excellence](assets/img/Picture6-A-Case-For-Change.png "Flowchart showing project outline from October 2025 starting engagement to Summer 2026 reporting to DfE and beginning phase 2 to establish a sustainable Centre of Excellence")
+
+The Centre of Excellence is part of the government's wider reform agenda for children's social care. It should build capacity in the sector to adopt the data and digital changes that come with significant reform, as well as supporting the sector to introduce key national objectives like a Single Unique Identifier and improvements to multi-agency information sharing.<sup>2</sup> Further, it should serve as a sustainable resource for sector-led improvements in local authority data and digital work.
 
 Successfully creating a Centre of Excellence would represent real investment in the capability of local authorities (LAs) and their safeguarding partners to use data and digital in children’s services, and our consortium – Data to Insight, Coram, the LGA, Social Finance, and ICT Revolutions – will design it with the sector, ensuring it works well for individual organisations.
 
@@ -24,7 +23,7 @@ We know this project will only be a success if it works in ways which the sector
 
 
 
-## Clear opportunities {#clear-opportunities}
+## <span style="color:dodgerblue">Clear opportunities</span>
 
 We see our sector as an inter-related system where **context, status, quality,** **value** and **cost** are key factors which interact to determine the whole system’s effectiveness.
 
@@ -32,24 +31,30 @@ From this perspective, we see huge **opportunities to improve safeguarding servi
 
 But there’s a difference between knowing how things ought to work, and being able to make them work that way. We intend to design a Centre of Excellence with **optimistic goals and pragmatic approaches**. We already see a range of possible support which the Centre could provide, which we can align to three delivery strands identified in the DfE’s preparatory work for this project:
 
+![Colourful table showing the thirteen ideas from Appendix 2](assets/img/Picture7-Clear opportunities.png "Colourful table showing the thirteen ideas from Appendix 2")
+
 In the detailed appendices to this paper, we cite prior experience informing our understanding of these work areas, and highlight activities for the Centre of Excellence to consider in more detail. **We welcome feedback** and suggestions to help us refine our thinking as we begin our design work.
 
 Alongside some LA-facing support for specific urgent issues, this programme’s core role is to approach a specification for a future Centre of Excellence. Over the next nine months, we will:
 
-- > **Engage** far and wide
+-  <span style="color:tomato">**Engage**</span> far and wide
 
-- > **Experiment** with key delivery approaches
+-  <span style="color:steelblue">**Experiment**</span> with key delivery approaches
 
-- > **Evaluate** evidence to inform our design work
+-  <span style="color:orange">**Evaluate**</span> evidence to inform our design work
 
-- > **Design** the Centre of Excellence
+-  <span style="color:darkturquoise">**Design**</span> the Centre of Excellence
 
-We’ll engage actively with as many stakeholders as possible during our work. We would especially welcome feedback via our structured feedback form: \[LINK\]
+We’ll engage actively with as many stakeholders as possible during our work. We would especially welcome feedback via our structured [feedback page](feedback.md)
 
 We’ll also engage with as many relevant groups and network meetings as possible, and would welcome further invitations. You can find us online at [*https://www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
 
 The rest of this paper discusses our initial problem analysis in more detail.
 
+<!--- footnotes -->
+<sup>1</sup>[https://www.find-tender.service.gov.uk/Notice/042098-2025](https://www.find-tender.service.gov.uk/Notice/042098-2025)
+
+<sup>2</sup>This agenda is set out in [Keeping Children Safe, Helping Families Thrive](https://assets.publishing.service.gov.uk/media/67375fe5ed0fc07b53499a42/Keeping_Children_Safe__Helping_Families_Thrive_.pdf) (for the single unique identifier, see pp. 9-10)
 
 <!--- feedback form only below here -->
 

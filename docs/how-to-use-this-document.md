@@ -1,6 +1,4 @@
-# Imagining a Centre of Excellence
-
-## How to use this document
+# <span style="color:dodgerblue">How to use this document</span>
 
 This document is designed to reach a wide readership with varying levels of pre-existing knowledge and interest. 
 
