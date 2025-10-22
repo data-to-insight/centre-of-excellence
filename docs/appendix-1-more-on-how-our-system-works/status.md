@@ -1,17 +1,21 @@
-# Status
+# <span style="color:dodgerblue">Status</span>
 
 While many LAs will talk about being “data-driven” or “evidence-based” in their social work practice and oversight, we see significant variation in the status ascribed to data and digital professionals within children’s services.
 
-We might describe the question of status for data and digital work by comparing the function of the performance officer in differing LAs. In a data mature LA, this officer will support and challenge practice leaders, taking an active and important role in deciding what to investigate, how to interpret findings, and how to support leaders in strategising for future service delivery. In a less effective LA, this officer may report that their role is to produce data according to practice leaders’ requests, and collate commentary from practice leaders in order to populate report templates.[^13]
+We might describe the question of status for data and digital work by comparing the function of the performance officer in differing LAs. In a data mature LA, this officer will support and challenge practice leaders, taking an active and important role in deciding what to investigate, how to interpret findings, and how to support leaders in strategising for future service delivery. In a less effective LA, this officer may report that their role is to produce data according to practice leaders’ requests, and collate commentary from practice leaders in order to populate report templates.<sup>13</sup>
 
 While different LAs obviously work with different resources, we believe these variations are due less to resource constraints than to gaps in **understanding of what effective data leadership can do to support service delivery**. We see examples of low-resource, highly-capable LAs, as well as the inverse.
 
-Elsewhere, we see mixed messages about the perceived importance of data and digital professionals in children’s safeguarding. Recently a subsection of the DfE’s Star Chamber membership published comments noting the removal of a dedicated data/performance conversation from the Ofsted ILACS inspection framework. In their words, “the status of data professionals in education and social care is at an all-time low”.[^14]
+Elsewhere, we see mixed messages about the perceived importance of data and digital professionals in children’s safeguarding. Recently a subsection of the DfE’s Star Chamber membership published comments noting the removal of a dedicated data/performance conversation from the Ofsted ILACS inspection framework. In their words, “the status of data professionals in education and social care is at an all-time low”.<sup>14</sup>
 
 The status which a safeguarding service invests in its data function will necessarily impact the remit and credibility of that data function. The same is true of technology leadership, and other enablers.
 
 
- 
+ <!--- footnotes -->
+
+ <sup>13</sup> These assertions are drawn largely from informal feedback, e.g. at the Data to Insight-hosted ”Open House” meetings with LAs
+
+ <sup>14</sup> https://assets.publishing.service.gov.uk/media/67c86235ae2aa47d2f5ae313/Star_Chamber_Scrutiny_Board_activity_report_2023_to_2024.pdf
 
 <!--- feedback form only below here -->
 <div class="feedback-section feedback-compact" id="sheets">

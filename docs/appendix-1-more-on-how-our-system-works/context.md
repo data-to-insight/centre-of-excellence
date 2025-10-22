@@ -1,26 +1,30 @@
-# Context
+# <span style="color:dodgerblue">Context</span>
 
-Between 2021 and 2025, Data to Insight and Social Finance designed and delivered an apprenticeship for CSC data professionals[^9], because we found generic data analysis courses to be unsuitable for this context:
+Between 2021 and 2025, Data to Insight and Social Finance designed and delivered an apprenticeship for CSC data professionals<sup>9</sup>, because we found generic data analysis courses to be unsuitable for this context.
 
-Data to Insight, *CSC for Data People, 2024[^10]*
+>Children’s Social Care (CSC) is a unique national system, operated by individual local safeguarding authorities (LAs) supported by a range of national, regional and local organisations and other stakeholders. The legislative framework is complex, and local implementations can take a range of shapes. There is also an extensive statutory data requirement, as well as independent regulation. 
+>
+>The importance and complexity of safeguarding services in this context can make the data landscape difficult to understand, particularly given that technical factors – including the typical sizes of datasets, and common software restrictions within LAs – can mean that not all standard data approaches are appropriate in this context.
+>
+> -- Data to Insight, *CSC for Data People, 2024*<sup>10</sup>
 
 Besides the complexity of the wider systems which interact with CSC data and digital work, we highlight key aspects of the data context which influence our work:
 
-- > The **scale of data**, with small numbers and complex systems combining to require appropriate analysis methods
+-  The <span style="color:steelblue">**scale of data**</span>, with small numbers and complex systems combining to require appropriate analysis methods
 
-- > The **technology limitations**, governed outside the remit of CSC analysts, which local authorities must manage as large and complex organisations
+-  The <span style="color:deepskyblue">**technology limitations**</span>, governed outside the remit of CSC analysts, which local authorities must manage as large and complex organisations
 
-- > The **duty of care,** which is the guiding principle of effective safeguarding organisations and which complicates traditional data and digital methods, goals, and outputs in numerous ways
+-  The <span style="color:darkturquoise">**duty of care**</span>, which is the guiding principle of effective safeguarding organisations and which complicates traditional data and digital methods, goals, and outputs in numerous ways
 
 This all means that data work happens in relation with practitioner experience and opinion, and is often based on imperfect data resources. It also means change can be slow or partial.
 
 The CSC technology market, similarly, is a complex system to influence, not a problem to solve. Most LAs work with:
 
-- > **Case management systems** which feel expensive to LAs but modest in scope to suppliers
+-  <span style="color:yellowgreen">**Case management systems**</span> which feel expensive to LAs but modest in scope to suppliers
 
-- > Challenges integrating **supportive technologies**, from financial systems to AI tools, with the core CMS
+-  Challenges integrating <span style="color:darkturquoise">**supportive technologies**</span>, from financial systems to AI tools, with the core CMS
 
-- > **Internal structures and capabilities** which split related duties across multiple functional areas, requiring excellence internal collaboration to maintain high quality services
+-  <span style="color:orange">**Internal structures and capabilities**</span> which split related duties across multiple functional areas, requiring excellence internal collaboration to maintain high quality services
 
 LAs and suppliers alike tend to gravitate towards long-term contracts for single monolithic systems, and internal resources can struggle to develop the capabilities they need.
 
@@ -28,13 +32,22 @@ Beyond CSC, the **wider local government context** will also impact on CSC data 
 
 Major **DfE technical projects** – besides this one – include work to understand and establish new data standards, the introduction of a single unique identifier, pilots testing automated data flows from LAs to central government, and changes to national statutory data returns.
 
-In addition, councils face common, systemic challenges in silos, governance, data, culture and skills whenever they are undertaking digital transformation.[^11]
+In addition, councils face common, systemic challenges in silos, governance, data, culture and skills whenever they are undertaking digital transformation.<sup>11</sup>
 
-In our view, the pre-existing methods for governing data change across the system are struggling to manage current demand for change[^12]. We think many individual LA data and digital teams are struggling too.
+In our view, the pre-existing methods for governing data change across the system are struggling to manage current demand for change<sup>12</sup>. We think many individual LA data and digital teams are struggling too.
 
 The Centre of Excellence should help make sense of this context, and help LAs navigate change in coming years. Before we discuss how it might do that, the following sections discuss some key factors we think impact the sector’s ability to respond well to the challenging context in which it operates.
 
 
+<!--- footnotes -->
+
+<sup>9</sup> [https://www.datatoinsight.org/apprenticeships](https://www.datatoinsight.org/apprenticeships)
+
+<sup>10</sup> [CSC for Data People](https://www.datatoinsight.org/publications-1/csc-for-data-people)
+
+<sup>11</sup> As described in MHCLG’s [Future Councils pilot report](https://mhclgdigital.blog.gov.uk/wp-content/uploads/sites/222/2024/04/FC-Pilot-Report.pdf)
+
+<sup>12</sup> See pp.8-10 [here](https://assets.publishing.service.gov.uk/media/67c86235ae2aa47d2f5ae313/Star_Chamber_Scrutiny_Board_activity_report_2023_to_2024.pdf) for recent representations on this subject by LA employees who support these existing processes
 
 <!--- feedback form only below here -->
 

@@ -1,4 +1,4 @@
-# Value
+# <span style="color:dodgerblue">Value</span>
 
 Where data work has a suitable level of status – or credibility – in the LA, it controls the remit to design its own functionality to meet the needs of the organisation. This results in higher value work.
 
