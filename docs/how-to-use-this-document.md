@@ -22,7 +22,7 @@ Within this, our long list of possible support activities for a Centre of Excell
 
 For in-depth discussion of specific problems and opportunities (pages 13-35) 
 
-The remainder of the document provides three appendices which can be read asof extensions of the content in pages 6-12, or as discussion topics in their own right. 
+The remainder of the document provides three appendices which can be read as extensions of the content in pages 6-12, or as discussion topics in their own right. 
 
 These are useful reference explaining our thinking and prompting sector feedback, both on our problem analysis and on the validity of our early support ideas, but you can still provide us feedback before you’ve read them. 
 
@@ -33,6 +33,6 @@ To provide feedback
 
 Each page footer contains a feedback form for your contributions, corrections or comment on the direction of specific page content. We welcome your thoughts and enagement with the suggested topics.  
 
-Additionally a broader, general [feedback page](feedback.md) offers further options to shape future CoE focus. 
+Additionally a broader, general [feedback page](feedback.md) offers further options to shape future Centre of Excellence focus. 
 
 

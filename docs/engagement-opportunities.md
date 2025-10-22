@@ -22,7 +22,7 @@ Anonymous feedback is welcome, but **providing some information about yourself a
 
 As part of our information gathering, we are running an updated data maturity survey, developing from the Stronger Families data maturity survey, and benefiting from the expertise of the Local Government Association and other consortium partners.
 
-Please visit this link to find out more: \[LINK\]
+Please visit this link to find out more: [*www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
 
 #### Find us on the internet
 

@@ -34,6 +34,9 @@ Some of these costs – for example, the cost of responding to a new government 
 
 Others – like the time required to correct errors in a dataset – may feel unpredictable but can in fact be controlled with improved data maturity. Making sense of these distinctions is part of the strategic role of each local authority technical and leadership function.
 
+[^16]: Footnote text
+
+
 
 <!--- feedback form only below here -->
 

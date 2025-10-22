@@ -6,6 +6,8 @@ Data and digital work, like any work, varies in value according to its relevance
 
 This work will be of high value if the activity results in positive impact on the services which the LA provides to children and families. Actionable insights, outcomes-focused performance management, and careful systems management for operational efficiency, are all examples of data and digital work which produces value to the organisation. Rote reporting which does not alter service activity – whether because the reporting is irrelevant or inactionable, or because the service is not equipped to respond to data insights – is an example of low value output.
 
+To put it another way, measuring a key performance indicator (KPI) to show that your LA is near the national average for a particular measure, or showing the demographic breakdown of a cohort without interrogating the reasons for discrepancies within that breakdown, may deliver limited value. Understanding through national comparison that your local thresholds are misaligned with common practice, or identifying through analysis that your services systemically respond differently to children of different ethnicities, would represent higher value.
+
 To deliver real value from data and digital work, the whole organisation must align around processes which **use data and digital enablers to help children and families to live well**.
 
 
