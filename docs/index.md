@@ -26,11 +26,11 @@
 <table class="gallery">
   <tr>
   <!--- need to make these img types consistent! unsure why they're not -->
-    <td><img src="assets/img/picture1.png" class="gallery-img" alt="logo 1"></td>
-    <td><img src="assets/img/picture2.png" class="gallery-img" alt="d2i logo"></td>
-    <td><img src="assets/img/picture3.png" class="gallery-img" alt="logo 3"></td>
-    <td><img src="assets/img/picture4.png" class="gallery-img" alt="logo 4"></td>
-    <td><img src="assets/img/picture5.png" class="gallery-img" alt="logo 5"></td>
+    <td><img src="assets/img/Picture1.png" class="gallery-img" alt="logo for Coram"></td>
+    <td><img src="assets/img/Picture2.png" class="gallery-img" alt="logo for Data to Insight"></td>
+    <td><img src="assets/img/Picture3.png" class="gallery-img" alt="logo for ICT Revolutions"></td>
+    <td><img src="assets/img/Picture4.png" class="gallery-img" alt="logo for the Local Government Association"></td>
+    <td><img src="assets/img/Picture5.png" class="gallery-img" alt="logo for Social Finance"></td>
   </tr>
 </table>
 <!--- enfd of logo block -->
