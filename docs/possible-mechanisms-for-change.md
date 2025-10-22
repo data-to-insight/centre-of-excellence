@@ -1,8 +1,10 @@
-# Possible mechanisms for change
+# <span style="color:dodgerblue">Possible mechanisms for change</span>
 
 There’s a difference between knowing how things ought to work, and being able to make them work that way. **We intend to design a Centre of Excellence with optimistic goals and pragmatic approaches**.
 
-When we started to work together to improve data work in children’s services via Data to Insight, we identified a core positive feedback loop which would guide our activity.<sup>[^5]</sup>
+When we started to work together to improve data work in children’s services via Data to Insight, we identified a core positive feedback loop which would guide our activity.<sup>5</sup>
+
+![Three item cycle showing better collaboration leading to better data tools leading to better services for children](assets/img/Picture10-Possible mechanisms for change1.png "Three item cycle showing better collaboration leading to better data tools leading to better services for children")
 
 By finding ways for people across the sector to work together, we make better tools, which helps local authorities deliver better services. The better the services, the more likely that they join future collaborations, and the more useful their contributions, meaning the work improves over time.
 
@@ -10,17 +12,21 @@ This mechanism works. We have better shared tools<sup>[^6]</sup> and data collec
 
 Below, we outline what we think a Centre of Excellence could do, and the ways of doing these things which are most likely to work in the real world.
 
+![Six column table showing the ideas from Appendix 2 under the following categories: careers strategy, leadership strategy, advanced technology, community facilitation, data as a resource, policy enablers](assets/img/Picture11-Possible mechanisms for change2.png "Six column table showing the ideas from Appendix 2 under the following categories: careers strategy, leadership strategy, advanced technology, community facilitation, data as a resource, policy enablers")
+
 Within each of these conceptual areas, we might imagine an endless list of possible activities. For the purposes this paper, we’ve limited ourselves to three examples per theme, making thirty-six ideas. **We want to know if you think that these ideas are ‘right’**; if they’re logically sound, and if they’re properly scaled, but most importantly if they’re true and useful.
 
 We need to stress that **these are ideas, not commitments**. We’ll test further through this project.
 
-For detailed discussion of these elements, and the reasoning which leads us to our initial assumptions, see Appendix 2.
+For detailed discussion of these elements, and the reasoning which leads us to our initial assumptions, see Appendix 2. The below diagram outlines those elements and related example activities.
 
-Our example activities for a Centre of Excellence, as discussed in more detail in Appendix 2:
+![Text-heavy diagram collating the sets of example activities from each section of Appendix 2](assets/img/Picture12-Possible mechanisms for change3.png "Text-heavy diagram collating the sets of example activities from each section of Appendix 2")
 
+<!--- footnotes -->
 
+<sup>5</sup> As discussed in [this article published by MHCLG](https://medium.com/ldcu/council-spotlight-november-b6e647d44041)
 
-
+<!--- feedback -->
 
 <div class="feedback-section feedback-compact" id="sheets">
   <h2>Page feedback</h2>
