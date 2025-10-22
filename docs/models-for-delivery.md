@@ -2,17 +2,21 @@
 
 A Centre of Excellence could take many forms. We don’t believe that its role is to do all of everything that we’ve detailed above; that’s the work of the whole sector, and of individual professionals and their teams, to ensure that their services’ support functions remain effective. The Centre of Excellence should help to make sure that:
 
-- > the sector’s data and digital ecosystem **works**,
+-  the sector’s data and digital ecosystem **works**,
 
-- > **excellence **proliferates across administrative boundaries,
+-  **excellence **proliferates across administrative boundaries,
 
-- > local services help **children**, and
+-  local services help **children**, and
 
-- > national data and digital **enablers** are well delivered and maintained.
+-  national data and digital **enablers** are well delivered and maintained.python3 -m mkdocs serve -a 0.0.0.0:8000
 
 Whatever a Centre of Excellence might grow into over time, it will need to begin life as a financially, structurally, and relationally *viable *organisation, so it’s as much our job to design that organisation as to specify its outputs, and for that design work we want to pay attention to models which work in the kinds of complex system we want the Centre of Excellence to support.
 
-John Gall, *Systemantics: How Systems Really Work and How They Fail*
+>A complex system that works is invariably found to have evolved from a simple system that worked.
+>A complex system designed from scratch never works and cannot be patched up to make it work.
+>You have to start…with a working simple system.
+> 
+> -- <cite>John Gall, *Systemantics: How Systems Really Work and How They Fail*</cite>
 
 We think that our – and our colleagues’ – ongoing efforts represent examples of simple systems that work, and we think that the Centre of Excellence should organise its initial activity around approaches we know work, with a straightforward organisation structure owning clearly defined delivery domains.
 

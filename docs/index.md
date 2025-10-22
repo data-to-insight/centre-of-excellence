@@ -1,6 +1,7 @@
 
-# The Data to Insight Consortium: Imagining a Centre of Excellence
-## For Children’s Services Data and Digital Professionals
+# Imagining a Centre of Excellence for Children’s Services Data and Digital Professionals
+
+### The D2I Consortium
 <!--- self-contained logo block (css only applies here) -->
 <style>
 .md-typeset table.gallery {
@@ -37,8 +38,9 @@
 
 
 
-DRAFT AS AT 2025-10-10  
-October 2025 
+Last updated: 2025-10-22
+
+Please navigate using left side menu. An accompanying PDF copy of this material is available at [*https://www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
 
 
 
