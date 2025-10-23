@@ -201,6 +201,9 @@ def make_readme(owner, repo, max_depth=2, include_docs=False):
 
     content.append("## Quick start\n")
     content.append("```bash\npip install -r requirements.txt\nmkdocs serve\n```\n")
+    content.append("If 'mkdocs serve' doesn't work, to preview the site use the following instead\n")
+    content.append("```bash\npython3 -m mkdocs serve -a 0.0.0.0:8000```\n\n")
+
 
     content.append("## Build & deploy\n")
     content.append("- `mkdocs build`---> outputs static site to `site/`\n"
