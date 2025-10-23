@@ -1,12 +1,18 @@
-// form-feedback-main.js
+// docs/assets/js/form-feedback-main.js
+// Full 'General/wider feedback' ---> Google Sheets via Cloudflare Worker
 
 (function () {
-  const FORM = document.getElementById("main-form");
-  if (!FORM) return;
+  function init() {
+    const FORM = document.getElementById("main-form");
+    if (!FORM) return;
+
+    // prevent double-wiring on SPA nav
+    if (FORM.dataset.wired === "1") return;
+    FORM.dataset.wired = "1";
 
   const ENDPOINT = "https://coe-feedback-worker.robjharrison.workers.dev/sheets"; // Proxy Google Apps Script
 
-  // -------------- Data --------------
+  // -------------- desponse options-data --------------
   const IDEAS = [
     "Data tool collaboration",
     "Improving data quality",
@@ -91,148 +97,194 @@
     ]
   };
 
-  // -------------- Helpers --------------
-  function createRankRow(name, group) {
-    const wrap = document.createElement("div");
-    wrap.className = "item-row";
-    const label = document.createElement("label");
-    label.textContent = name;
-    label.htmlFor = `${group}-${slug(name)}`;
-    const sel = document.createElement("select");
-    sel.id = `${group}-${slug(name)}`;
-    sel.className = "rank";
-    sel.innerHTML = `<option value="">—</option>` + [1,2,3,4,5].map(n=>`<option>${n}</option>`).join("");
-    wrap.append(label, sel);
-    return wrap;
-  }
+    // -------------- helpers --------------
+    const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g,"");
+    const escapeQuotes = s => s.replace(/"/g, '&quot;');
 
-  function createActivityBlock(section, items) {
-    const fieldset = document.createElement("div");
-    fieldset.className = "activity-section";
-    const head = document.createElement("h4");
-    head.textContent = section;
-    fieldset.appendChild(head);
-    items.forEach(txt => {
-      const id = `act-${slug(section)}-${slug(txt)}`;
-      const row = document.createElement("label");
-      row.className = "chk-row";
-      row.innerHTML = `<input type="checkbox" id="${id}" value="${section}: ${escapeQuotes(txt)}"> ${txt}`;
-      fieldset.appendChild(row);
-    });
-    return fieldset;
-  }
-
-  const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g,"");
-  const escapeQuotes = s => s.replace(/"/g, '&quot;');
-
-  // -------------- Build dynamic sections --------------
-  const useDiv = document.getElementById("usefulness-list");
-  const likeDiv = document.getElementById("likelihood-list");
-  IDEAS.forEach(name => {
-    useDiv.appendChild(createRankRow(name, "use"));
-    likeDiv.appendChild(createRankRow(name, "like"));
-  });
-
-  const actsDiv = document.getElementById("activities-list");
-  Object.entries(ACTIVITIES).forEach(([sec, items]) => {
-    actsDiv.appendChild(createActivityBlock(sec, items));
-  });
-
-  // -------------- Page, submit --------------
-  const params  = new URLSearchParams(location.search);
-  const pageUrl = params.get("page") ? decodeURIComponent(params.get("page")) : location.href;
-  const pageField = document.getElementById("mf-page");
-  if (pageField) pageField.value = pageUrl;
-
-  const btn = FORM.querySelector("button[type='submit']");
-  const ok  = document.getElementById("mf-ok");
-  const err = document.getElementById("mf-err");
-
-  let sending = false;
-
-  FORM.addEventListener("submit", async (ev) => {
-    ev.preventDefault();
-    if (sending) return;
-    sending = true;
-
-    ok.hidden = true; err.hidden = true;
-
-    const role = document.getElementById("mf-role").value.trim();
-    if (!role) { err.hidden = false; sending = false; return; }
-
-    const org   = document.getElementById("mf-org").value.trim();
-    const email = document.getElementById("mf-email").value.trim();
-
-    // Collect rankings into objects
-    const rankUse = {};
-    const rankLik = {};
-    IDEAS.forEach(name => {
-      const uEl = document.getElementById(`use-${slug(name)}`);
-      const lEl = document.getElementById(`like-${slug(name)}`);
-      const u = uEl ? (uEl.value || "").trim() : "";
-      const l = lEl ? (lEl.value || "").trim() : "";
-      if (u) rankUse[name] = Number(u);
-      if (l) rankLik[name] = Number(l);
-    });
-
-    // Collect selected activities as array of strs "Section: item"
-    const acts = [];
-    actsDiv.querySelectorAll('input[type="checkbox"]:checked').forEach(cb => acts.push(cb.value));
-
-    // Reflections
-    const sectionEl  = document.getElementById("mf-section");
-    const natureEl   = document.getElementById("mf-nature"); // may not exist
-    const commentsEl = document.getElementById("mf-comments");
-
-    const section  = sectionEl  ? (sectionEl.value  || "").trim() : "";
-    // const nature = natureEl   ? (natureEl.value   || "").trim() : "";  // removed from payload
-    const comments = commentsEl ? (commentsEl.value || "").trim() : "";
-
-    // Disable UI
-    if (btn) {
-      btn.disabled = true;
-      btn.classList.add("is-loading");
-      btn.dataset.orig = btn.textContent;
-      btn.textContent = "Sending…";
+    function createRankRow(name, group) {
+      const wrap = document.createElement("div");
+      wrap.className = "item-row";
+      const label = document.createElement("label");
+      label.textContent = name;
+      label.htmlFor = `${group}-${slug(name)}`;
+      const sel = document.createElement("select");
+      sel.id = `${group}-${slug(name)}`;
+      sel.className = "rank";
+      sel.innerHTML = `<option value="">—</option>` + [1,2,3,4,5].map(n=>`<option>${n}</option>`).join("");
+      wrap.append(label, sel);
+      return wrap;
     }
-    FORM.classList.add("is-submitting");
 
-    try {
-      const res = await fetch(ENDPOINT, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          tab: "MainFeedback",   // tell Apps Script which sheet/tab to use
-          page: pageUrl,
-          role, org, email,
-          rank_usefulness: rankUse,
-          rank_likelihood: rankLik,
-          activities: acts,
-          section,
-          // nature, // intentionally not sent on main form now
-          comments,
-          hp_field: document.getElementById("mf_hp")?.value || ""
-        })
+    function createActivityBlock(section, items) {
+      const fieldset = document.createElement("div");
+      fieldset.className = "activity-section";
+      const head = document.createElement("h4");
+      head.textContent = section;
+      fieldset.appendChild(head);
+      items.forEach(txt => {
+        const id = `act-${slug(section)}-${slug(txt)}`;
+        const row = document.createElement("label");
+        row.className = "chk-row";
+        row.innerHTML = `<input type="checkbox" id="${id}" value="${section}: ${escapeQuotes(txt)}"> ${txt}`;
+        fieldset.appendChild(row);
+      });
+      return fieldset;
+    }
+
+    // -------------- duild dynamic response blocks --------------
+    const useDiv  = document.getElementById("usefulness-list");
+    const likeDiv = document.getElementById("likelihood-list");
+    if (useDiv && likeDiv) {
+      IDEAS.forEach(name => {
+        useDiv.appendChild(createRankRow(name, "use"));
+        likeDiv.appendChild(createRankRow(name, "like"));
+      });
+    }
+
+    const actsDiv = document.getElementById("activities-list");
+    if (actsDiv) {
+      Object.entries(ACTIVITIES).forEach(([sec, items]) => {
+        actsDiv.appendChild(createActivityBlock(sec, items));
+      });
+    }
+
+
+    // // -------------- (re)build dynamic blocks --------------
+    // // in case later mv to dynamic data (or chge init)
+    // // data-wired guard (init runs once per-page view)
+    // // cache elements first
+    // const useDiv  = document.getElementById("usefulness-list");
+    // const likeDiv = document.getElementById("likelihood-list");
+    // const actsDiv = document.getElementById("activities-list");
+
+    // // if rebuild lists, clear first (to avoid adding dups)
+    // useDiv?.replaceChildren();
+    // likeDiv?.replaceChildren();
+    // actsDiv?.replaceChildren();
+
+    // // (re)build - avoid errs if container not there
+    // // reuse stored useDiv/likeDiv/actsDiv
+    // if (useDiv && likeDiv) {
+    //   IDEAS.forEach(name => {
+    //     useDiv.appendChild(createRankRow(name, "use"));
+    //     likeDiv.appendChild(createRankRow(name, "like"));
+    //   });
+    // }
+
+    // if (actsDiv) {
+    //   Object.entries(ACTIVITIES).forEach(([sec, items]) => {
+    //     actsDiv.appendChild(createActivityBlock(sec, items));
+    //   });
+    // }
+
+
+    // -------------- page submit --------------
+    const params  = new URLSearchParams(location.search);
+    const pageUrl = params.get("page") ? decodeURIComponent(params.get("page")) : location.href;
+    const pageField = document.getElementById("mf-page");
+    if (pageField) pageField.value = pageUrl;
+
+    const btn = FORM.querySelector("button[type='submit']");
+    const ok  = document.getElementById("mf-ok");
+    const err = document.getElementById("mf-err");
+
+    let sending = false;
+
+    FORM.addEventListener("submit", async (ev) => {
+      ev.preventDefault();
+      if (sending) return;
+      sending = true;
+
+      if (ok) ok.hidden = true;
+      if (err) err.hidden = true;
+
+      const roleEl  = document.getElementById("mf-role");
+      const orgEl   = document.getElementById("mf-org");
+      const emailEl = document.getElementById("mf-email");
+
+      const role = roleEl ? roleEl.value.trim() : "";
+      if (!role) { if (err) err.hidden = false; sending = false; return; }
+
+      const org   = orgEl ? orgEl.value.trim() : "";
+      const email = emailEl ? emailEl.value.trim() : "";
+
+      // reposnse collecting
+      // collect rankings
+      const rankUse = {};
+      const rankLik = {};
+      IDEAS.forEach(name => {
+        const uEl = document.getElementById(`use-${slug(name)}`);
+        const lEl = document.getElementById(`like-${slug(name)}`);
+        const u = uEl ? (uEl.value || "").trim() : "";
+        const l = lEl ? (lEl.value || "").trim() : "";
+        if (u) rankUse[name] = Number(u);
+        if (l) rankLik[name] = Number(l);
       });
 
-      if (res.ok) {
-        ok.hidden = false;
-        FORM.reset();
-        document.getElementById("mf-role").focus();
-        setTimeout(() => ok.hidden = true, 3000);
-      } else {
-        err.hidden = false;
+      // collect activities
+      const acts = [];
+      if (actsDiv) {
+        actsDiv.querySelectorAll('input[type="checkbox"]:checked').forEach(cb => acts.push(cb.value));
       }
-    } catch {
-      err.hidden = false;
-    } finally {
+
+      // reflections
+      const sectionEl  = document.getElementById("mf-section");
+      const commentsEl = document.getElementById("mf-comments");
+      const section  = sectionEl  ? (sectionEl.value  || "").trim() : "";
+      const comments = commentsEl ? (commentsEl.value || "").trim() : "";
+
+      // disable UI
       if (btn) {
-        btn.disabled = false;
-        btn.classList.remove("is-loading");
-        if (btn.dataset.orig) btn.textContent = btn.dataset.orig;
+        btn.disabled = true;
+        btn.classList.add("is-loading");
+        btn.dataset.orig = btn.textContent;
+        btn.textContent = "Sending…";
       }
-      FORM.classList.remove("is-submitting");
-      sending = false;
-    }
-  });
+      FORM.classList.add("is-submitting");
+
+      try {
+        const res = await fetch(ENDPOINT, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            tab: "MainFeedback",
+            page: pageUrl,
+            role, org, email,
+            rank_usefulness: rankUse,
+            rank_likelihood: rankLik,
+            activities: acts,
+            section,
+            comments,
+            hp_field: document.getElementById("mf_hp")?.value || ""
+          })
+        });
+
+        if (res.ok) {
+          if (ok) ok.hidden = false;
+          FORM.reset();
+          document.getElementById("mf-role")?.focus();
+          setTimeout(() => { if (ok) ok.hidden = true; }, 3000);
+        } else {
+          if (err) err.hidden = false;
+        }
+      } catch {
+        if (err) err.hidden = false;
+      } finally {
+        if (btn) {
+          btn.disabled = false;
+          btn.classList.remove("is-loading");
+          if (btn.dataset.orig) btn.textContent = btn.dataset.orig;
+        }
+        FORM.classList.remove("is-submitting");
+        sending = false;
+      }
+    });
+  }
+
+  // MkDocs Material SPA support
+  if (window.document$ && typeof document$.subscribe === "function") {
+    document$.subscribe(init);         // run each page change
+  } else {
+    document.addEventListener("DOMContentLoaded", init); // hard load
+  }
 })();
