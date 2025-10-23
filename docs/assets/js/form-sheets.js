@@ -1,5 +1,6 @@
 // docs/assets/js/form-sheets.js
 // Compact 'Page feedback' ---> Google Sheets via Cloudflare Worker
+
 (function () {
   function wireCompactForm() {
     const FORM = document.getElementById('gs-form');
@@ -104,14 +105,14 @@
       }
     });
 
-    // Optional: quick smoke log
+    // smoke log
     // console.debug('[compact] wired');
   }
 
   // MkDocs Material SPA support
   if (window.document$ && typeof document$.subscribe === 'function') {
-    document$.subscribe(wireCompactForm);   // runs on every page change
+    document$.subscribe(wireCompactForm);   // run on each page change
   } else {
-    document.addEventListener('DOMContentLoaded', wireCompactForm); // hard loads
+    document.addEventListener('DOMContentLoaded', wireCompactForm); // hard load
   }
 })();
