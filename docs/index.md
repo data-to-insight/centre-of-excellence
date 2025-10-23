@@ -39,7 +39,7 @@
 
 Last updated: 2025-10-22
 
-Please navigate using left side menu. An accompanying PDF copy of this material is available at [*https://www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
+Please navigate using search icon or left side menu (or top menu if browsing on mobile). An accompanying PDF copy of this material is available at [*https://www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
 
 
 

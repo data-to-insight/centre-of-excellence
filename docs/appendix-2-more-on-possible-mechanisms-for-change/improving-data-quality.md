@@ -1,6 +1,6 @@
 # <span style="color:dodgerblue">Improving data quality</span>
 
-The best data tool in the world, if such a thing exists, is useless without access to high quality data. And while front line workers – and administrators, too – might see data quality work as unwelcome additional busywork<sup>[^23]</sup>, the topic requires serious and sustained attention.
+The best data tool in the world, if such a thing exists, is useless without access to high quality data. And while front line workers – and administrators, too – might see data quality work as unwelcome additional busywork<sup>23</sup>, the topic requires serious and sustained attention.
 
 High quality data is complete, accurate, and relevant to service needs and the wellbeing of children and families. A Centre of Excellence should prioritise finding ways to help local authorities ensure sufficient data quality, as an enabler for every other outcome of effective data work.
 
@@ -18,6 +18,10 @@ Focus areas for the Centre of Excellence:
 
 -  <span style="color:orange">**Balancing**</span> and explaining the elements of data quality and data maturity in LAs
 
+
+<!--- footnotes -->
+
+<sup>23</sup> For more on this, see [here](https://www.datatoinsight.org/publications-1/understanding-social-worker-recording-essex)
 
 <!-- feedback form -->
 

@@ -8,7 +8,7 @@ When we started to work together to improve data work in children’s services v
 
 By finding ways for people across the sector to work together, we make better tools, which helps local authorities deliver better services. The better the services, the more likely that they join future collaborations, and the more useful their contributions, meaning the work improves over time.
 
-This mechanism works. We have better shared tools<sup>[^6]</sup> and data collections<sup>[^7]</sup> with a wider range of sponsors and owners, and LA colleagues tell us these help them work more effectively to support children.
+This mechanism works. We have better shared tools<sup>6</sup> and data collections<sup>7</sup> with a wider range of sponsors and owners, and LA colleagues tell us these help them work more effectively to support children.
 
 Below, we outline what we think a Centre of Excellence could do, and the ways of doing these things which are most likely to work in the real world.
 
@@ -25,6 +25,11 @@ For detailed discussion of these elements, and the reasoning which leads us to o
 <!-- footnotes -->
 
 <sup>5</sup> As discussed in [this article published by MHCLG](https://medium.com/ldcu/council-spotlight-november-b6e647d44041)
+
+<sup>6</sup> [https://www.datatoinsight.org/what-we-do](https://www.datatoinsight.org/what-we-do)
+
+<sup>7</sup> [https://www.datatoinsight.org/riia-quarterly](https://www.datatoinsight.org/riia-quarterly)
+
 
 <!-- feedback form -->
 
