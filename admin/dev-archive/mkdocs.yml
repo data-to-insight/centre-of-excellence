@@ -101,7 +101,7 @@ extra_javascript:
   - assets/js/feedback.js
   # pr
   - assets/js/suggest-pr.js
-  email
+  # email
   - assets/js/email-feedback.js
   # google sheet
   - assets/js/form-sheets.js
