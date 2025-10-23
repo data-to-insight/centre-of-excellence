@@ -8,12 +8,20 @@ Static docs site built with MkDocs -Material
 
 ## Quick start
 
+At the Codespaces terminal command line use
 ```bash
+python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 mkdocs serve
 ```
+if you find that mkdocs serve doesn't work out of the box use the following
+```bash
+python3 -m mkdocs serve -a 0.0.0.0:8000
+```
 
 ## Build & deploy
+
+For ref only. Git actions/workflow will do all this, no action needed whilst updating the site via Codespaces.
 
 - `mkdocs build`---> outputs static site to `site/`
 - GitHub Actions builds on pushes to `main` and publishes to GitHub Pages.
