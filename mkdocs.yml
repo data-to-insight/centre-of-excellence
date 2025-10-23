@@ -95,16 +95,12 @@ extra_css:
   - assets/css/feedback.css
 
 extra_javascript:
-
-  # testing feedback routes
-  # git issue 
-  - assets/js/feedback.js
-  # pr
-  - assets/js/suggest-pr.js
   # email
   - assets/js/email-feedback.js
-  # google sheet
-  - assets/js/form-sheets.js
 
   # main feedback form handler (also on google sheets)
   - assets/js/form-feedback-main.js
+
+  # per page handler
+  - assets/js/form-sheets.js
+
