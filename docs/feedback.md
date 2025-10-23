@@ -3,7 +3,7 @@
 Thank you for contributing your thoughts towards any of the following.
 Feedback is annonymous unless you optionally add your organisation/email. 
 
-<!--- feedback form only below here -->
+<!-- feedback form -->
 <div class="feedback-section feedback-main" id="main-feedback">
   <form id="main-form" novalidate>
     <!-- hidden -->

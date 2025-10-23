@@ -22,11 +22,11 @@ For detailed discussion of these elements, and the reasoning which leads us to o
 
 ![Text-heavy diagram collating the sets of example activities from each section of Appendix 2](assets/img/Picture12-Possible mechanisms for change3.png "Text-heavy diagram collating the sets of example activities from each section of Appendix 2")
 
-<!--- footnotes -->
+<!-- footnotes -->
 
 <sup>5</sup> As discussed in [this article published by MHCLG](https://medium.com/ldcu/council-spotlight-november-b6e647d44041)
 
-<!--- feedback -->
+<!-- feedback form -->
 
 <div class="feedback-section feedback-compact" id="sheets">
   <h2>Page feedback</h2>
@@ -85,4 +85,3 @@ For detailed discussion of these elements, and the reasoning which leads us to o
 </form>
 
 </div>
-
