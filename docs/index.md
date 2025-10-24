@@ -36,11 +36,9 @@
 
 
 
+Published: 2025-10-23
+Last updated: 2025-10-24 (minor corrections to formatting)
 
-Last updated: 2025-10-24
-
-2025-10-24: Minor corrections to formatting
-2025-10-23: Initial publication
 
 Please navigate using search icon or left side menu (or top menu if browsing on mobile). An accompanying PDF copy of this material is available at [*https://www.datatoinsight.org/coe*](https://www.datatoinsight.org/coe)
 
