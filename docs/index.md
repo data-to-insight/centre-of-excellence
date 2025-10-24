@@ -1,8 +1,7 @@
----
-title:The D2I Consortium: Imagining a Centre of Excellence
+title: The D2I Consortium: Imagining a Centre of Excellence
 description: Data to Insight, Coram, the LGA, Social Finance and ICT Revolutions
-image: assets/img/Picture2.png   # d2i logo for socials 
----
+image: assets/img/Picture2.png
+
 
 # <span style="color:dodgerblue">Imagining a Centre of Excellence for Children’s Services Data and Digital Professionals</span>
 
