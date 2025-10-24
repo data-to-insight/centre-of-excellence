@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block extrahead %}
+  {{ super() }}
+  {% set og_image = page.meta.image or config.extra.social_default_image %}
+  {% if og_image %}
+    <meta property="og:image" content="{{ og_image | url }}">
+    <meta property="og:image:alt" content="{{ page.meta.title or config.site_name }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ og_image | url }}">
+  {% endif %}
+{% endblock %}

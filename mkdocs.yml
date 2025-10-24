@@ -3,8 +3,13 @@ site_url: https://data-to-insight.github.io/centre-of-excellence/
 repo_url: https://github.com/data-to-insight/centre-of-excellence
 docs_dir: docs
 use_directory_urls: true   # pretty urls docs/pg.md into /pg/ 
+
+
+---
+title:The D2I Consortium: Imagining a Centre of Excellence
 description: Data to Insight, Coram, the LGA, Social Finance and ICT Revolutions
 image: assets/img/Picture2.png   # d2i logo for socials 
+---
 
 theme:
   name: material
@@ -75,6 +80,9 @@ nav:
       - 'Appendix 3: More on models for delivery': appendix-3-more-on-models-for-delivery.md
       - 'Appendix 4: Reference projects': appendix-4-reference-projects.md
 
+extra:
+  social_default_image: assets/img/Picture2.png
+  
 # extra:
 #   analytics:
 #     provider: custom            # use custom handler (no GA)
