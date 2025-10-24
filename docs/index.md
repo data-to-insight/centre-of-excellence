@@ -1,5 +1,5 @@
 
-# Imagining a Centre of Excellence for Children’s Services Data and Digital Professionals
+# <span style="color:dodgerblue">Imagining a Centre of Excellence for Children’s Services Data and Digital Professionals</span>
 
 ### The D2I Consortium
 <!--- self-contained logo block (css only applies here) -->
