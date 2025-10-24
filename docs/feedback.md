@@ -1,7 +1,8 @@
 # Feedback   
 
-Thank you for contributing your thoughts towards any of the following.
-Feedback is annonymous unless you optionally add your organisation/email. 
+We're taking a sector-led approach to designing a Centre of Excellence, which means we need your help. Thank you for contributing your thoughts towards any of the following.
+
+Feedback is anonymous, unless you optionally add your organisation/email, but we do encourage you to provide that information if you feel able to do so. We will only use this to help us understand where different roles and organisation types are providing different feedback, and to reach out to you directly if any of your feedback is unclear. Nobody outside our feedback analysis team will see your email address.  
 
 <!-- feedback form -->
 <div class="feedback-section feedback-main" id="main-feedback">

@@ -14,7 +14,7 @@ Below, we outline what we think a Centre of Excellence could do, and the ways of
 
 ![Six column table showing the ideas from Appendix 2 under the following categories: careers strategy, leadership strategy, advanced technology, community facilitation, data as a resource, policy enablers](assets/img/Picture11-Possible mechanisms for change2.png "Six column table showing the ideas from Appendix 2 under the following categories: careers strategy, leadership strategy, advanced technology, community facilitation, data as a resource, policy enablers")
 
-Within each of these conceptual areas, we might imagine an endless list of possible activities. For the purposes this paper, we’ve limited ourselves to three examples per theme, making thirty-six ideas. **We want to know if you think that these ideas are ‘right’**; if they’re logically sound, and if they’re properly scaled, but most importantly if they’re true and useful.
+Within each of these conceptual areas, we might imagine an endless list of possible activities. For the purposes of this paper, we’ve limited ourselves to three examples per theme, making thirty-six ideas. **We want to know if you think that these ideas are ‘right’**; if they’re logically sound, and if they’re properly scaled, but most importantly if they’re true and useful.
 
 We need to stress that **these are ideas, not commitments**. We’ll test further through this project.
 

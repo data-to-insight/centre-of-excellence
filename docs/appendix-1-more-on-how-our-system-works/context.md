@@ -24,7 +24,7 @@ The CSC technology market, similarly, is a complex system to influence, not a pr
 
 -  Challenges integrating <span style="color:darkturquoise">**supportive technologies**</span>, from financial systems to AI tools, with the core CMS
 
--  <span style="color:orange">**Internal structures and capabilities**</span> which split related duties across multiple functional areas, requiring excellence internal collaboration to maintain high quality services
+-  <span style="color:orange">**Internal structures and capabilities**</span> which split related duties across multiple functional areas, requiring excellent internal collaboration to maintain high quality services
 
 LAs and suppliers alike tend to gravitate towards long-term contracts for single monolithic systems, and internal resources can struggle to develop the capabilities they need.
 

@@ -24,14 +24,14 @@ Within this, our long list of possible support activities for a Centre of Excell
 
 The remainder of the document provides three appendices which can be read as extensions of the content in the above sections, or as discussion topics in their own right. 
 
-These are useful reference explaining our thinking and prompting sector feedback, both on our problem analysis and on the validity of our early support ideas, but you can still provide us feedback before you’ve read them. 
+These are useful reference material explaining our thinking and prompting sector feedback, both on our problem analysis and on the validity of our early support ideas, but you can still provide us feedback before you’ve read them. 
 
  
 
 #### <span style="color:dodgerblue">To provide feedback </span>
 
 
-Each page footer contains a feedback form for your contributions, corrections or comment on the direction of specific page content. We welcome your thoughts and enagement with the suggested topics.  
+Each page footer contains a feedback form for your contributions, corrections or comment on the direction of specific page content. We welcome your thoughts and engagement with the suggested topics.  
 
 Additionally a broader, general [feedback page](feedback.md) offers further options to shape future Centre of Excellence focus. We very much welcome your input via this general feedback form, regardless of how much time you've had to review the rest of this document.
 
