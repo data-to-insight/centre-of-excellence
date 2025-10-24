@@ -5,11 +5,6 @@ docs_dir: docs
 use_directory_urls: true   # pretty urls docs/pg.md into /pg/ 
 
 
----
-title:The D2I Consortium: Imagining a Centre of Excellence
-description: Data to Insight, Coram, the LGA, Social Finance and ICT Revolutions
-image: assets/img/Picture2.png   # d2i logo for socials 
----
 
 theme:
   name: material
@@ -82,7 +77,7 @@ nav:
 
 extra:
   social_default_image: assets/img/Picture2.png
-  
+
 # extra:
 #   analytics:
 #     provider: custom            # use custom handler (no GA)
