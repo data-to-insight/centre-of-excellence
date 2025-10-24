@@ -3,6 +3,8 @@ site_url: https://data-to-insight.github.io/centre-of-excellence/
 repo_url: https://github.com/data-to-insight/centre-of-excellence
 docs_dir: docs
 use_directory_urls: true   # pretty urls docs/pg.md into /pg/ 
+description: Data to Insight, Coram, the LGA, Social Finance and ICT Revolutions
+image: assets/img/Picture2.png   # d2i logo for socials 
 
 theme:
   name: material
