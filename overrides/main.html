@@ -1,11 +1,27 @@
 {% extends "base.html" %}
 {% block extrahead %}
   {{ super() }}
-  {% set og_image = page.meta.image or config.extra.social_default_image %}
+
+  {# Title/description with fallbacks #}
+  {% set meta_title = (page and page.meta and page.meta.title) or config.site_name %}
+  {% set meta_desc  = (page and page.meta and page.meta.description) or config.site_description %}
+
+  {# Choose image: per-page > site-wide default #}
+  {% set og_image = config.extra.social_default_image %}
+  {% if page and page.meta and page.meta.image %}
+    {% set og_image = page.meta.image %}
+  {% endif %}
+
+  {# Standard OG/Twitter tags #}
+  {% if meta_title %}<meta property="og:title" content="{{ meta_title }}">{% endif %}
+  {% if meta_desc %}<meta property="og:description" content="{{ meta_desc }}">{% endif %}
+
   {% if og_image %}
     <meta property="og:image" content="{{ og_image | url }}">
-    <meta property="og:image:alt" content="{{ page.meta.title or config.site_name }}">
+    <meta property="og:image:alt" content="{{ meta_title }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ og_image | url }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
   {% endif %}
 {% endblock %}
