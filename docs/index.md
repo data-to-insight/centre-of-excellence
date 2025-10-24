@@ -1,4 +1,4 @@
-
+<meta property=”og:image” content=assets/img/Picture2.png />
 # <span style="color:dodgerblue">Imagining a Centre of Excellence for Children’s Services Data and Digital Professionals</span>
 
 ### The D2I Consortium
