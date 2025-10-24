@@ -1,4 +1,3 @@
-
 ---
 title:The D2I Consortium: Imagining a Centre of Excellence
 description: Data to Insight, Coram, the LGA, Social Finance and ICT Revolutions
