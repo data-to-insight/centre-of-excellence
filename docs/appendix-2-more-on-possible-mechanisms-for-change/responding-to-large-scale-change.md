@@ -8,7 +8,7 @@ When Ofsted inspect a local authority, myriad detailed requests for information 
 
 While DfE has rightly highlighted Families First and Family Hubs as areas for our Centre of Excellence project to test support and guidance to local authorities, we’re open-minded about whether or not these specific areas will become part of the core Centre of Excellence design. We need to make sure these do fit with what the Centre of Excellence ought to be, and that we find ways to make sure they will work, and that they will be useful.
 
-In design terms, the crucial question is not around which changes are coming, but what kinds of support a Centre of Excellence can usefully provide in this kinds of situations. This kind of thinking will help us ensure we design a Centre of Excellence which can continue to support through future, as-yet unknown, changes of similar magnitude, but potentially quite different subject matter.
+In design terms, the crucial question is not around which changes are coming, but what kinds of support a Centre of Excellence can usefully provide in these kinds of situations. This kind of thinking will help us ensure we design a Centre of Excellence which can continue to support through future, as-yet unknown, changes of similar magnitude, but potentially quite different subject matter.
 
 Focus areas for the Centre of Excellence:
 

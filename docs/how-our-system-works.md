@@ -2,7 +2,7 @@
 
 There’s more than one way to frame the context of CSC data and digital work.
 
-Often, the work happens across multiple people, business units, and organisations, and overlaps with other functions. The data team supporting children’s services in a local authority might also support adults services; the dataset a local authority relies on might also be important to central government or a third party. Any boundaries we draw around these areas of work will be somewhat artificial.
+Often, the work happens across multiple people, business units, and organisations, and overlaps with other functions. The data team supporting children’s services in a local authority might also support adults' services; the dataset a local authority relies on might also be important to central government or a third party. Any boundaries we draw around these areas of work will be somewhat artificial.
 
 To describe all of this, we focus on key aspects of the sector’s work which we think impact its effectiveness:
 
@@ -24,7 +24,7 @@ Diagrams like the one below are essentially very simplified system maps explaini
 
 In some ways, and **in some LAs, this system has become a vicious cycle**. Data and digital work has provided insufficient value to service leaders, and in time this has led to the status of the work diminishing, resulting in reduced resource and necessarily lower quality, which further reduces possible value.
 
-To compound this difficulty, the LAs who could most benefit from external support are often those which are least equipped to access it. Whether due to resource constraints, ineffective leadership, or any other factor, we infer from engagement with Data to Insight projects<sup>4</sup> that some LAs are so well-equipped that their only real engagement with our work is to help us deliver it well to other LAs, and other LAs are so poorly-equipped to engage with external partners that they cannot spare the time to evaluate our free tools for local use. We think some LAs are experiencing the above interplay of factors unhelpfully to the extent that they struggle to perform data and digital work beyond limited statutory obligations.
+To compound this difficulty, the LAs who could most benefit from external support are often those which are least equipped to access it. Whether due to resource constraints, leadership that lacks a vision for data and digital, or any other factor, we infer from engagement with Data to Insight projects<sup>4</sup> that some LAs are so well-equipped that their only real engagement with our work is to help us deliver it well to other LAs, and other LAs are so poorly-equipped to engage with external partners that they cannot spare the time to evaluate our free tools for local use. We think some LAs are experiencing the above interplay of factors unhelpfully to the extent that they struggle to perform data and digital work beyond limited statutory obligations.
 
 Not only is it possible to alter the direction of this cycle and convert it into a virtuous cycle, but we can see it happening in various examples across the sector. Where the work delivers value, the status of the work improves, enabling professionals to deliver higher quality work which increases its value to service leaders.
 
@@ -34,7 +34,7 @@ A successful Centre of Excellence will provide resources and direct support to l
 
 But this work goes beyond optimizing technical processes. It’s equally about understanding the cycles and systems within which this work happens, and how we can influence them to create conditions for success in as many local authorities as possible. There are specific interventions we can make to unblock system constraints and restart improvement processes.
 
-![For illustration purposes only, an example network map of organisations, projects, and resources relevant to a specific project](assets/img/Picture9-How Our System Works2.png "For illustration purposes only, an example network map of organisations, projects, and resources relevant to a specific project")
+![For illustration purposes only, an example network map of organisations, projects, and national resources](assets/img/Picture9-How Our System Works2.png "For illustration purposes only, an example network map of organisations, projects, and national resources")
 
 
 <!-- footnotes -->

@@ -6,7 +6,7 @@ One key aspect of the organisation structure is the way that authority to act ca
 
 So, while we want data and digital professionals to be proactive authorities within their domains, we know that at present that’s not always the case<sup>45</sup>, and we expect that authority for change will continue to be shared between multiple business units in many local authorities.
 
-This means that simply putting guidance and resources on a webpage isn't enough to help local authorities actually achieve improvement<sup>46</sup>. The Centre of Excellence will need to inject better practice actively, as well as describing it, and part of this work will be to build a new story of the technical professional’s purpose beyond their functional domain, so that leaders and colleagues properly understand their purpose and remit.
+This means that simply putting guidance and resources on a webpage isn't enough to help local authorities improve<sup>46</sup>. The Centre of Excellence will need to inject better practice actively, as well as describing it, and part of this work will be to build a new story of the technical professional’s purpose beyond their functional domain, so that leaders and colleagues properly understand their purpose and remit.
 
 Advocating for this work across organisational hierarchies means reaching not only analysts and other technicians, but the leaders who rely on them, and the social workers who create the data which is their working material.
 

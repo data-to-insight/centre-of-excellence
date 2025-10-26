@@ -1,6 +1,6 @@
 # <span style="color:dodgerblue">Supporting professional development</span>
 
-We know analysts don't have all the skills they want. We also know that significant numbers of people doing data work in children’s services are willing to invest time in developing their skills, and we also know that many of them hold no formal qualifications in statistical or technological disciplines<sup>47</sup>.
+We know digital and data professionals don't have all the skills they want. We also know that significant numbers of people doing data work in children’s services are willing to invest time in developing their skills, and we also know that many of them hold no formal qualifications in statistical or technological disciplines<sup>47</sup>.
 
 Data maturity surveys tell us more about this. In the LGA’s recent survey of local government data capacity and capability, we saw that 67% of respondents identified lack of skilled capacity as a barrier to developing data maturity<sup>48</sup>.
 

@@ -20,7 +20,7 @@ This all means that data work happens in relation with practitioner experience a
 
 The CSC technology market, similarly, is a complex system to influence, not a problem to solve. Most LAs work with:
 
--  <span style="color:yellowgreen">**Case management systems**</span> which feel expensive to LAs but modest in scope to suppliers
+-  <span style="color:yellowgreen">**Case management systems**</span> which feel expensive to LAs, but which suppliers feel represent good value for money in a relatively small market
 
 -  Challenges integrating <span style="color:darkturquoise">**supportive technologies**</span>, from financial systems to AI tools, with the core CMS
 

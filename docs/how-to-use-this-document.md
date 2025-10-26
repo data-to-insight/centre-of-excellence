@@ -30,6 +30,7 @@ These are useful reference material explaining our thinking and prompting sector
 
 #### <span style="color:dodgerblue">To provide feedback </span>
 
+Advocating for this work across organisational hierarchies means reaching not only analysts and other technicians, but the leaders who rely on them, and the social workers who create the data which is their working material.
 
 Each page footer contains a feedback form for your contributions, corrections or comment on the direction of specific page content. We welcome your thoughts and engagement with the suggested topics.  
 

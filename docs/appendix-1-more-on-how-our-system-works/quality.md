@@ -4,7 +4,7 @@ We must also recognise significant variance in the quality of data and digital w
 
 **Quality**, in the sense we discuss it here, comprises three key elements:
 
--  Analysis accuracy and competence
+-  Analysis accuracy and competence, including data quality
 
 -  Technology access and understanding
 

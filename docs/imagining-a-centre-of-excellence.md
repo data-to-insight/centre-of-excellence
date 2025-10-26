@@ -2,7 +2,7 @@
 
 ## <span style="color:dodgerblue">A case for change</span>
 
-**Children's social care has long been a special place to do data and digital work**. Every data item matters, not only to budgets or work plans, but to the lives and experiences of some of our society’s most vulnerable children and families. Specific technical challenges, and the nuances of local service delivery, combine to make the work as interesting as it is important.
+**Children's social care has long been a special place to do data and digital work**. Every data item matters, not only to budgets or work plans, but to the lives and experiences of some of our society’s most vulnerable children and families. Practitioners' digital tools have a significant impact on their ability to do their job effectively for the benefit of children and families. Specific technical challenges, and the nuances of local service delivery, combine to make the work as interesting as it is important.
 
 Many of us began our children’s services careers in a world of paper records and minimal statistics. Since the widespread adoption of electronic case management systems, **we’ve seen significant changes** both to practice frameworks and the wider technology landscape, all in a context of constrained resources. The sector has approached these challenges and opportunities with local innovation and a growing, and active, desire for collaboration towards strategic interventions.
 
@@ -11,15 +11,15 @@ But attempts to use or repurpose longstanding institutions to meet new challenge
 
 ## <span style="color:dodgerblue">Our invitation</span>
 
-With DfE funding, we’re scoping and designing a “Centre of Excellence” – **a national support offer** for data and digital work in children’s social care<sup>1</sup>.
+With DfE funding and support, we’re scoping and designing a “Centre of Excellence” – **a national support offer** for data and digital work in children’s social care<sup>1</sup>.
 
  ![Flowchart showing project outline from October 2025 starting engagement to Summer 2026 reporting to DfE and beginning phase 2 to establish a sustainable Centre of Excellence](assets/img/Picture6-A-Case-For-Change.png "Flowchart showing project outline from October 2025 starting engagement to Summer 2026 reporting to DfE and beginning phase 2 to establish a sustainable Centre of Excellence")
 
-The Centre of Excellence is part of the government's wider reform agenda for children's social care. It should build capacity in the sector to adopt the data and digital changes that come with significant reform, as well as supporting the sector to introduce key national objectives like a Single Unique Identifier and improvements to multi-agency information sharing.<sup>2</sup> Further, it should serve as a sustainable resource for sector-led improvements in local authority data and digital work.
+The Centre of Excellence is part of the government's wider reform agenda for children's social care, which aims to tackle key challenges in the system and improve outcomes for children and families. The Centre of Excellence aims to help build capacity in the sector to support the adoption of data and digital changes that come with significant reform, as well as supporting the sector to introduce key national objectives like a Single Unique Identifier and improvements to multi-agency information sharing.<sup>2</sup> Further, it should serve as a sustainable resource for sector-led improvements in local authority data and digital work.
 
 Successfully creating a Centre of Excellence would represent real investment in the capability of local authorities (LAs) and their safeguarding partners to use data and digital in children’s services, and our consortium – Data to Insight, Coram, the LGA, Social Finance, and ICT Revolutions – will design it with the sector, ensuring it works well for individual organisations.
 
-We know this project will only be a success if it works in ways which the sector understands and welcomes. As sector-embedded organisations, we’re starting by laying out what we think, and asking colleagues to challenge and improve our understanding. **Real engagement is crucial to our design work**.
+We know the Centre of Excellence will only be a success if it works in ways which the sector understands and welcomes. As sector-embedded organisations, we’re starting by laying out what we think, and asking colleagues to challenge and improve our understanding. **Real engagement is crucial to our design work**.
 
 
 
